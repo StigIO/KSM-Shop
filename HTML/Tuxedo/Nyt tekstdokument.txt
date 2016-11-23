@@ -1,0 +1,49 @@
+Skjul topmenu:
+
+<style>
+div.poi-bar.hide-for-small{visibility:hidden;}
+</style>
+
+Indsat i site->head section:
+Alternativ menu samt logo:
+
+<link rel="icon" type="image/gif" href="/images/skins/clean/favicon.ico">
+<style TYPE="TEXT/CSS">  
+
+  
+  #logotest{margin: 5px;} 
+  
+  #MenuButton1{position:absolute;
+    top:45px;
+    left:400px;}
+  #MenuButton2{position:absolute;
+    top:45px;
+    left:500px;}
+  #MenuButton3{position:absolute;
+    top:45px;
+    left:600px;}
+  #MenuButton4{position:absolute;
+    top:45px;
+    left:700px;}
+  #MenuButton5{position:absolute;
+    top:45px;
+    left:800px;}
+  #MenuButton6{position:absolute;
+    top:45px;
+    left:900px;}
+  
+  #webshop-spaceleft{position:relative; top: -50px;}
+  
+  #ProductMenu_List{
+    position:relative;
+    top: -120px;}    
+  
+  img.WebShopSkinLogo{width:150px;}
+  
+</style>
+
+
+
+
+
+ 

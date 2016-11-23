@@ -1,0 +1,20 @@
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<link rel="stylesheet" href="/images/skins/technologic/public/css/app.min.css?update=v8" />
+	<script src="/images/skins/technologic/public/js/modernizer.min.js?update=v8"></script>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700|Roboto+Condensed:700italic,400,300,700' rel='stylesheet' type='text/css'>
+
+<style> 
+  
+  .WebShopSkinLogo{width: 160px;}    
+  
+  
+  #menu-area{max-width: none;}  
+ 
+  div.products-wrapper{visibility: hidden; height: 0px;}
+  
+  #subnavigation-row{visibility: hidden; display: inline;}  
+
+ 
+ 
+</style>

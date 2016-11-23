@@ -1,0 +1,28 @@
+1)
+Overskriften "fremhævede produkter" på forsiden fjernet via
+
+div.products-wrapper{visibility: hidden; height: 0px;}
+
+i Design -> skin -> rediger skin -> kodefelter.
+
+2)
+produkt dropdown kun 1 linie ved fuld skærm
+
+  #menu-area{max-width: none;}
+
+i Design -> skin -> rediger skin -> kodefelter.
+
+
+3) subnavigation-row <div> under produktmenu dropdown fjernet
+
+<div id="subnavigation-row" class="hide-for-small">
+	<div class="row sub-navigation">
+          	<div class="column small-12">
+        	    	<nav class="sub-bar">
+              			[[TopMenu]]
+            		</nav>
+   		</div>
+   	</div>
+</div>
+
+fra Design -> skin -> rediger skin -> Layout kode linie 43 inden </header> webshop-spacetop

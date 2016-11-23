@@ -1,0 +1,80 @@
+  <div id="fb-root"></div>
+  <div id="PrintContent_DIV" class="PrintContent_DIV"></div>
+  
+  <div class="ShopMainLayOutTable">
+    <header id="webshop-spacetop" class="page-header">
+      <div id="logo-row">
+        <div class="row">
+          <div class="column small-5 logo" id="logoareal">
+            <a href="[[FrontpageUrl]]">
+              [[Logo]]
+            </a>
+            
+          </div>
+          <div class="column small-7 cart-wrapper">
+            <div id="webshop-basket" class="cart">
+              [[Basket]]
+            </div>
+            <div class="search">
+              <div class="btn" onclick="toggleSearch();"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="search-row">
+        <div class="row">
+          <div class="column small-12 SearchPage_TD">
+            [[SearchFrame]]
+          </div>
+        </div>
+      </div>
+      <div id="webshop-topmenu">
+        <div class="contain-to-grid">
+          <nav class="top-bar" id="menu-area" data-topbar style = "margin-left: 0px; margin-right: 0px;">
+            <ul class="title-area">
+              <li class="name"></li>
+              <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
+            </ul>
+            <section class="top-bar-section">
+              [[ProductMenu]]
+            </section>
+          </nav>
+        </div>
+      </div>
+      
+    </header>
+    
+    <div id="ContentContainer_DIV" class="content [[CurrentPageName]] SpaceRight_TD">
+      <div class="inner-content-wrapper">
+        [[Content]]
+      </div>
+    </div>
+    
+    <footer id="webshop-spacebottom" class="page-footer">
+      <div id="information-row" class="row">
+		[[BottomFrame]]
+      </div>
+      <div class="row hide-for-small">
+        <div class="column small-12">
+          <hr class="spacer" />
+        </div>
+      </div>
+      <div id="bottom-navigation-row" class="row hide-for-small">
+        <div class="column small-12">
+          <nav class="sub-bar">
+            [[TopMenu]]
+          </nav>
+        </div>
+      </div>
+      <div id="copyright-row" class="row">
+        <div class="column small-12">
+          [[RightFrame]]
+        </div>
+      </div>
+      <div id="payment-row" class="row">
+        <div class="column small-12 paymenticons">
+          <!-- Should you wish to customice the payment icons, please update the picture in the basket section -->
+        </div>
+      </div>
+    </footer>
+  </div>
