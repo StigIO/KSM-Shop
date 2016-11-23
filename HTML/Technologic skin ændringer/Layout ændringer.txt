@@ -26,3 +26,9 @@ i Design -> skin -> rediger skin -> kodefelter.
 </div>
 
 fra Design -> skin -> rediger skin -> Layout kode linie 43 inden </header> webshop-spacetop
+
+4) produktmenu dropdown - Justeret bredde via nyt <nav> id: main_menu
+tilføjet Design -> skin -> rediger skin -> Layoutkode.
++
+css style max-width: 90rem
+

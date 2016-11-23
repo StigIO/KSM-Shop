@@ -1,0 +1,6 @@
+forkert formatering af tekst ved reservedelslister når vinduet gøres mindre.
+
+Søgefunktion fungerer ikke; kan ikke finde produkter og derudover er der layoutfejl, hvor "Ingen varer fundet" og 
+"resultat for: xxxx" skrives 2 gange.
+det hjælper ikke at installere et andet skin i stedet - søgning og produktvisning virker ikke efter hensigten
+
