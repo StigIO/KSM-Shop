@@ -1,4 +1,4 @@
-  <div id="fb-root"></div>
+<div id="fb-root"></div>
   <div id="PrintContent_DIV" class="PrintContent_DIV"></div>
   
   <div class="ShopMainLayOutTable">
@@ -30,7 +30,7 @@
       </div>
       <div id="webshop-topmenu">
         <div class="contain-to-grid">
-          <nav class="top-bar" id="menu-area" data-topbar style = "margin-left: 0px; margin-right: 0px;">
+          <nav class="top-bar" id="main_menu" data-topbar>
             <ul class="title-area">
               <li class="name"></li>
               <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>

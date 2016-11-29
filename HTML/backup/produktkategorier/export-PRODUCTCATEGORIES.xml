@@ -1,0 +1,3218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PRODUCT_CATEGORY_EXPORT type="PRODUCTCATEGORIES">
+  <ELEMENTS>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>1</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/Tuxedo.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL></SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>3</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">0</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-3s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>2</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/KSM-Mulistoker.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL></SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>4</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">0</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-4s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>4</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker XXL</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>4</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/KSM-Mulistoker_XXL.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL></SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>5</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">0</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-xxl-5s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>3</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker XL</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/KSM-Mulistoker_XL.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL></SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>6</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">0</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-xl-6s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>5</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Flissiloer</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>5</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>8</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">0</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/flissiloer-8s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>12</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxido 20</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/Tuxedo20All.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>11</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">1</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxido-20-11s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>13</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxido 30</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/Tuxedo30All.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>12</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">1</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxido-30-12s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>14</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxido 50</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>4</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/Tuxedo50All.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>13</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">1</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxido-50-13s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>15</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxido 75</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>5</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/Tuxedo75All.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>14</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">1</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxido-75-14s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>16</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxido 100</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>6</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/Tuxedo100All.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>15</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">1</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxido-100-15s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>17</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxido 125</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>7</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/Tuxedo100All.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>16</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">1</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxido-125-16s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>21</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 175-13</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>17</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">2</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-175-13-17s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>22</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 275-18</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>18</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">2</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-275-18-18s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>23</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 375</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>19</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">2</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-375-19c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>24</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 575-50</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>4</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>20</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">2</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-575-50-20c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>25</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 775-75</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>5</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>21</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">2</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-775-75-21c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>26</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 975-95</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>6</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>22</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">2</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-975-95-22c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>27</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 1275-125</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>7</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>23</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">2</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-1275-125-23c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>31</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 145XL</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>24</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">3</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-145xl-24c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>32</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 190XL</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>25</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">3</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-190xl-25c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>33</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 199XL</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>26</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">3</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-199xl-26c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>34</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 240XL</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>4</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>27</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">3</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-240xl-27c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>35</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 290XL</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>5</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>28</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">3</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-290xl-28c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>36</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 360XL</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>6</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>29</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">3</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-360xl-29c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>41</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 199XXL</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>30</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">4</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-199xxl-30c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>42</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 300XXL</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>31</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">4</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-300xxl-31c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>43</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 400XXL</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>32</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">4</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-400xxl-32c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>44</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 500XXL</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>4</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>33</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">4</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-500xxl-33c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>45</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 750XXL</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>5</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>34</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">4</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-750xxl-34c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>46</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 1000XXL</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>6</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>35</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">4</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-1000xxl-35c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>51</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>500 l. silo </PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>36</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">5</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/500-l-silo-36c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>52</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>1m3 Flissilo</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>37</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">5</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/1m3-flissilo-37c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>53</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>2m3 Flissilo</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>38</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">5</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/2m3-flissilo-38c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>54</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>4m3 Flissilo</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>4</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>39</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">5</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/4m3-flissilo-39c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>55</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>6m3 Flissilo</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>5</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>40</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">5</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/6m3-flissilo-40c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>6</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Cirkeludmader</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>6</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>42</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">0</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/cirkeludmader-42s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>61</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>150mm kanal</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>43</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">6</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/150mm-kanal-43c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>62</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>200mm kanal</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>44</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">6</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/200mm-kanal-44c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>63</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>250mm kanal</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>45</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">6</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/250mm-kanal-45c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>64</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>300mm kanal</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>4</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>46</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">6</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/300mm-kanal-46c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>7</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Reservedelsoversigt</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>7</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>47</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">0</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/reservedelsoversigt-47s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>71</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>El-motor</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>48</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">7</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/el-motor-48c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>72</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Gear</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>49</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">7</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/gear-49c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>73</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Ildfaste sten</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>50</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">7</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ildfaste-sten-50c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>74</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Standard el-dele</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>4</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>51</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">7</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/standard-el-dele-51c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>75</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Styringsdele PCT300 og ældre</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>5</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>52</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">7</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/styringsdele-pct300-og-52c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>76</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Styringsdele PCT400</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>6</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>53</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">7</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/styringsdele-pct400-53c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>77</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Cellesluse</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>7</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>54</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">7</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/cellesluse-54c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>11</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 10</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/Tuxedo10All.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>60</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">1</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-10-60s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>111</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 10 Standard</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/Tuxedo10-std.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>61</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">11</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-10-standard-61s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>112</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 10 Auto</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/Tuxedo10-auto.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>62</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">11</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-10-auto-62s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>113</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 10 F-Auto</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/Tuxedo10-f_auto.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>63</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">11</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-10-f-auto-63s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>114</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 10 FX</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>4</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/Tuxedo10-fx.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>64</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">11</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-10-fx-64s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>121</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 20 Standard</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/Tuxedo20-std.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>65</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">12</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-20-standard-65s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>122</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 20 Auto</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/Tuxedo20-auto.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>66</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">12</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-20-auto-66s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>123</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 20 F-Auto</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/Tuxedo20-f_auto.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>67</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">12</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-20-f-auto-67s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>124</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 20 FX</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>4</PROD_CAT_SORT>
+      <PROD_CAT_LINK>images/Tuxedo20-fx.html?hideinterface=1</PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>68</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">12</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-20-fx-68s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>131</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 30 Standard</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>71</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">13</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-30-standard-71c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>132</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 30 Auto</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>72</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">13</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-30-auto-72c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>133</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 30 F-Auto</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>73</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">13</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-30-f-auto-73c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>134</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 30 FX</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>4</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>74</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">13</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-30-fx-74c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>141</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 50 Auto</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>76</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">14</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-50-auto-76c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>142</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 50 F-Auto</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>77</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">14</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-50-f-auto-77c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>143</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 50 FX</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>78</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">14</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-50-fx-78c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>151</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 75 Auto</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>79</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">15</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-75-auto-79c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>152</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 75 F-Auto</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>80</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">15</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-75-f-auto-80c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>153</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 75 FX</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>81</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">15</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-75-fx-81c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>161</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 100 Auto</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>82</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">16</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-100-auto-82c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>162</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 100 </PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>83</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">16</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-100-83c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>163</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 100 FX</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>84</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">16</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-100-fx-84c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>171</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 125 Auto</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>85</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">17</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-125-auto-85c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>172</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 125 F-Auto</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>86</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">17</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-125-f-auto-86c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>173</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tuxedo 125</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>87</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">17</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/tuxedo-125-87c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>111-1</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Askeudtag</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;[[PRODUCTS]][[3COLUMNLIST]]&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>89</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">111</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/askeudtag-89c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>111-2</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Blæserdele</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>90</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">111</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/blaeserdele-90c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>111-3</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Kølespiral</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>91</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">111</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/koelespiral-91c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>111-4</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Luftdyser</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>4</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>92</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">111</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/luftdyser-92c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>111-5</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Rist mm.</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>5</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>93</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">111</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/rist-mm-93c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>111-6</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Røgrørsrenser</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>6</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>94</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">111</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/roegroersrenser-94c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>111-7</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Røgsuger</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>7</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>95</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">111</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/roegsuger-95c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>111-8</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Silo</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>8</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>96</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">111</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/silo-96c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>111-9</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Skrabebund</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>9</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>97</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">111</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/skrabebund-97c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>111-10</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Sprinklersystem</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>10</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>98</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">111</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/sprinklersystem-98c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>111-11</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Sten og isolering</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>11</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>99</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">111</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/sten-og-isolering-99c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>111-12</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Stokersnegl mm.</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>12</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>100</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">111</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/stokersnegl-mm-100c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>111-13</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Styring</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>13</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>101</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">111</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/styring-101c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>111-14</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tænding</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>14</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>102</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">111</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/taending-102c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>112-2</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Blæserdele</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>103</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">112</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/blaeserdele-103c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>112-1</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Askeudtag</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>104</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">112</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/askeudtag-104c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>176</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Askeudtag</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>105</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">113</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/askeudtag-105c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>177</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Askeudtag</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>106</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">114</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/askeudtag-106c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>178</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Askeudtag</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>107</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">121</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/askeudtag-107c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>179</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Askeudtag</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>108</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">122</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/askeudtag-108c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>180</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Askeudtag</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>109</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">123</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/askeudtag-109c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>181</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Askeudtag</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>110</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">124</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/askeudtag-110c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>211</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 175-13 Standard</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>111</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">21</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-175-13-111s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>212</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 175-13 Auto</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>112</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">21</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-175-13-112s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>213</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 175-13 F-Auto</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>113</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">21</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-175-13-113s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>214</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 175-13 FX</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>4</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>114</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">21</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-175-13-114s1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>211-1</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Askeudtag</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>115</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">211</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/askeudtag-115c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>212-1</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Askeudtag</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>116</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">212</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/askeudtag-116c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>313-1</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Askeudtag</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>117</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">213</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/askeudtag-117c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>214-1</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Askeudtag</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>118</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">214</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/askeudtag-118c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>221</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 275-18 Standard</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>1</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>119</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">22</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-275-18-119c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>222</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 275-18 Auto</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>2</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>120</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">22</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-275-18-120c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>223</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 275-18 F-Auto</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>121</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">22</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-275-18-121c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>224</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>KSM-Multistoker 175-13 FX</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>4</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>122</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">22</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/ksm-multistoker-175-13-122c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>112-3</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Brandspjæld</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>3</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>123</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">112</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/brandspjaeld-123c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>112-4</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Kølespiral</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>4</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>124</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">112</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/koelespiral-124c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>112-5</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Luftdyser</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>5</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>125</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">112</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/luftdyser-125c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>112-6</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Rist mm.</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>6</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>126</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">112</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/rist-mm-126c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>112-7</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Røgrørsrenser</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>7</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>127</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">112</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/roegroersrenser-127c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>112-8</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Røgsuger</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>8</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>128</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">112</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/roegsuger-128c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>112-9</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Skrabebund</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>9</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>129</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">112</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/skrabebund-129c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>112-10</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Sprinklersystem</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>10</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>130</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">112</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/sprinklersystem-130c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>112-11</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Sten og isolering</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>11</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>131</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">112</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/sten-og-isolering-131c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>112-12</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Stokersnegl mm.</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>12</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>132</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">112</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/stokersnegl-mm-132c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>112-13</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Styring</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>13</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>133</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">112</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/styring-133c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+    <PRODUCT_CATEGORY>
+      <PROD_CAT_ID>112-14</PROD_CAT_ID>
+      <LANGUAGE_ID>26</LANGUAGE_ID>
+      <PROD_CAT_NAME>Tænding</PROD_CAT_NAME>
+      <PROD_CAT_HIDDEN>False</PROD_CAT_HIDDEN>
+      <PROD_CAT_SORT>14</PROD_CAT_SORT>
+      <PROD_CAT_LINK></PROD_CAT_LINK>
+      <PROD_CAT_DESCRIPTION>&lt;html&gt;
+&lt;head&gt;
+	&lt;title&gt;&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/body&gt;
+&lt;/html&gt;
+</PROD_CAT_DESCRIPTION>
+      <PROD_CAT_ICON></PROD_CAT_ICON>
+      <SUBCAT_SYMBOL>-</SUBCAT_SYMBOL>
+      <PROD_CAT_IMAGE></PROD_CAT_IMAGE>
+      <META_KEYWORDS></META_KEYWORDS>
+      <META_DESCRIPTION></META_DESCRIPTION>
+      <TITLE></TITLE>
+      <INTERNAL_ID>135</INTERNAL_ID>
+      <PROD_CAT_UNIQUE_URL_NAME></PROD_CAT_UNIQUE_URL_NAME>
+      <PARENT_CATEGORIES>
+        <PARENT_CAT_ID priority="0">112</PARENT_CAT_ID>
+      </PARENT_CATEGORIES>
+      <DIRECT_LINK>http://ksm-shop.dk/shop/taending-135c1.html</DIRECT_LINK>
+    </PRODUCT_CATEGORY>
+  </ELEMENTS>
+</PRODUCT_CATEGORY_EXPORT>

@@ -1,0 +1,835 @@
+﻿PRODUCTCATEGORIES
+PROD_CAT_ID;LANGUAGE_ID;PROD_CAT_NAME;PROD_CAT_HIDDEN;PROD_CAT_SORT;PROD_CAT_LINK;PROD_CAT_DESCRIPTION;PROD_CAT_ICON;SUBCAT_SYMBOL;PROD_CAT_IMAGE;META_KEYWORDS;META_DESCRIPTION;TITLE;INTERNAL_ID;DIRECT_LINK;PROD_CAT_UNIQUE_URL_NAME;PARENT_CAT_ID
+"1";"26";"Tuxedo";"False";"1";"images/Tuxedo.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"";"";"";"";"";"3";"http://ksm-shop.dk/shop/tuxedo-3s1.html";"";"0"
+"2";"26";"KSM-Multistoker";"False";"2";"images/KSM-Mulistoker.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"";"";"";"";"";"4";"http://ksm-shop.dk/shop/ksm-multistoker-4s1.html";"";"0"
+"4";"26";"KSM-Multistoker XXL";"False";"4";"images/KSM-Mulistoker_XXL.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"";"";"";"";"";"5";"http://ksm-shop.dk/shop/ksm-multistoker-xxl-5s1.html";"";"0"
+"3";"26";"KSM-Multistoker XL";"False";"3";"images/KSM-Mulistoker_XL.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"";"";"";"";"";"6";"http://ksm-shop.dk/shop/ksm-multistoker-xl-6s1.html";"";"0"
+"5";"26";"Flissiloer";"False";"5";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"8";"http://ksm-shop.dk/shop/flissiloer-8s1.html";"";"0"
+"12";"26";"Tuxido 20";"False";"2";"images/Tuxedo20All.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"11";"http://ksm-shop.dk/shop/tuxido-20-11s1.html";"";"1"
+"13";"26";"Tuxido 30";"False";"3";"images/Tuxedo30All.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"12";"http://ksm-shop.dk/shop/tuxido-30-12s1.html";"";"1"
+"14";"26";"Tuxido 50";"False";"4";"images/Tuxedo50All.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"13";"http://ksm-shop.dk/shop/tuxido-50-13s1.html";"";"1"
+"15";"26";"Tuxido 75";"False";"5";"images/Tuxedo75All.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"14";"http://ksm-shop.dk/shop/tuxido-75-14s1.html";"";"1"
+"16";"26";"Tuxido 100";"False";"6";"images/Tuxedo100All.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"15";"http://ksm-shop.dk/shop/tuxido-100-15s1.html";"";"1"
+"17";"26";"Tuxido 125";"False";"7";"images/Tuxedo100All.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"16";"http://ksm-shop.dk/shop/tuxido-125-16s1.html";"";"1"
+"21";"26";"KSM-Multistoker 175-13";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"17";"http://ksm-shop.dk/shop/ksm-multistoker-175-13-17s1.html";"";"2"
+"22";"26";"KSM-Multistoker 275-18";"False";"2";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"18";"http://ksm-shop.dk/shop/ksm-multistoker-275-18-18s1.html";"";"2"
+"23";"26";"KSM-Multistoker 375";"False";"3";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"19";"http://ksm-shop.dk/shop/ksm-multistoker-375-19c1.html";"";"2"
+"24";"26";"KSM-Multistoker 575-50";"False";"4";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"20";"http://ksm-shop.dk/shop/ksm-multistoker-575-50-20c1.html";"";"2"
+"25";"26";"KSM-Multistoker 775-75";"False";"5";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"21";"http://ksm-shop.dk/shop/ksm-multistoker-775-75-21c1.html";"";"2"
+"26";"26";"KSM-Multistoker 975-95";"False";"6";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"22";"http://ksm-shop.dk/shop/ksm-multistoker-975-95-22c1.html";"";"2"
+"27";"26";"KSM-Multistoker 1275-125";"False";"7";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"23";"http://ksm-shop.dk/shop/ksm-multistoker-1275-125-23c1.html";"";"2"
+"31";"26";"KSM-Multistoker 145XL";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"24";"http://ksm-shop.dk/shop/ksm-multistoker-145xl-24c1.html";"";"3"
+"32";"26";"KSM-Multistoker 190XL";"False";"2";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"25";"http://ksm-shop.dk/shop/ksm-multistoker-190xl-25c1.html";"";"3"
+"33";"26";"KSM-Multistoker 199XL";"False";"3";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"26";"http://ksm-shop.dk/shop/ksm-multistoker-199xl-26c1.html";"";"3"
+"34";"26";"KSM-Multistoker 240XL";"False";"4";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"27";"http://ksm-shop.dk/shop/ksm-multistoker-240xl-27c1.html";"";"3"
+"35";"26";"KSM-Multistoker 290XL";"False";"5";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"28";"http://ksm-shop.dk/shop/ksm-multistoker-290xl-28c1.html";"";"3"
+"36";"26";"KSM-Multistoker 360XL";"False";"6";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"29";"http://ksm-shop.dk/shop/ksm-multistoker-360xl-29c1.html";"";"3"
+"41";"26";"KSM-Multistoker 199XXL";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"30";"http://ksm-shop.dk/shop/ksm-multistoker-199xxl-30c1.html";"";"4"
+"42";"26";"KSM-Multistoker 300XXL";"False";"2";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"31";"http://ksm-shop.dk/shop/ksm-multistoker-300xxl-31c1.html";"";"4"
+"43";"26";"KSM-Multistoker 400XXL";"False";"3";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"32";"http://ksm-shop.dk/shop/ksm-multistoker-400xxl-32c1.html";"";"4"
+"44";"26";"KSM-Multistoker 500XXL";"False";"4";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"33";"http://ksm-shop.dk/shop/ksm-multistoker-500xxl-33c1.html";"";"4"
+"45";"26";"KSM-Multistoker 750XXL";"False";"5";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"34";"http://ksm-shop.dk/shop/ksm-multistoker-750xxl-34c1.html";"";"4"
+"46";"26";"KSM-Multistoker 1000XXL";"False";"6";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"35";"http://ksm-shop.dk/shop/ksm-multistoker-1000xxl-35c1.html";"";"4"
+"51";"26";"500 l. silo ";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"36";"http://ksm-shop.dk/shop/500-l-silo-36c1.html";"";"5"
+"52";"26";"1m3 Flissilo";"False";"2";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"37";"http://ksm-shop.dk/shop/1m3-flissilo-37c1.html";"";"5"
+"53";"26";"2m3 Flissilo";"False";"3";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"38";"http://ksm-shop.dk/shop/2m3-flissilo-38c1.html";"";"5"
+"54";"26";"4m3 Flissilo";"False";"4";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"39";"http://ksm-shop.dk/shop/4m3-flissilo-39c1.html";"";"5"
+"55";"26";"6m3 Flissilo";"False";"5";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"40";"http://ksm-shop.dk/shop/6m3-flissilo-40c1.html";"";"5"
+"6";"26";"Cirkeludmader";"False";"6";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"42";"http://ksm-shop.dk/shop/cirkeludmader-42s1.html";"";"0"
+"61";"26";"150mm kanal";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"43";"http://ksm-shop.dk/shop/150mm-kanal-43c1.html";"";"6"
+"62";"26";"200mm kanal";"False";"2";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"44";"http://ksm-shop.dk/shop/200mm-kanal-44c1.html";"";"6"
+"63";"26";"250mm kanal";"False";"3";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"45";"http://ksm-shop.dk/shop/250mm-kanal-45c1.html";"";"6"
+"64";"26";"300mm kanal";"False";"4";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"46";"http://ksm-shop.dk/shop/300mm-kanal-46c1.html";"";"6"
+"7";"26";"Reservedelsoversigt";"False";"7";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"47";"http://ksm-shop.dk/shop/reservedelsoversigt-47s1.html";"";"0"
+"71";"26";"El-motor";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"48";"http://ksm-shop.dk/shop/el-motor-48c1.html";"";"7"
+"72";"26";"Gear";"False";"2";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"49";"http://ksm-shop.dk/shop/gear-49c1.html";"";"7"
+"73";"26";"Ildfaste sten";"False";"3";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"50";"http://ksm-shop.dk/shop/ildfaste-sten-50c1.html";"";"7"
+"74";"26";"Standard el-dele";"False";"4";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"51";"http://ksm-shop.dk/shop/standard-el-dele-51c1.html";"";"7"
+"75";"26";"Styringsdele PCT300 og ældre";"False";"5";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"52";"http://ksm-shop.dk/shop/styringsdele-pct300-og-52c1.html";"";"7"
+"76";"26";"Styringsdele PCT400";"False";"6";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"53";"http://ksm-shop.dk/shop/styringsdele-pct400-53c1.html";"";"7"
+"77";"26";"Cellesluse";"False";"7";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"54";"http://ksm-shop.dk/shop/cellesluse-54c1.html";"";"7"
+"11";"26";"Tuxedo 10";"False";"1";"images/Tuxedo10All.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"60";"http://ksm-shop.dk/shop/tuxedo-10-60s1.html";"";"1"
+"111";"26";"Tuxedo 10 Standard";"False";"1";"images/Tuxedo10-std.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"61";"http://ksm-shop.dk/shop/tuxedo-10-standard-61s1.html";"";"11"
+"112";"26";"Tuxedo 10 Auto";"False";"2";"images/Tuxedo10-auto.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"62";"http://ksm-shop.dk/shop/tuxedo-10-auto-62s1.html";"";"11"
+"113";"26";"Tuxedo 10 F-Auto";"False";"3";"images/Tuxedo10-f_auto.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"63";"http://ksm-shop.dk/shop/tuxedo-10-f-auto-63s1.html";"";"11"
+"114";"26";"Tuxedo 10 FX";"False";"4";"images/Tuxedo10-fx.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"64";"http://ksm-shop.dk/shop/tuxedo-10-fx-64s1.html";"";"11"
+"121";"26";"Tuxedo 20 Standard";"False";"1";"images/Tuxedo20-std.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"65";"http://ksm-shop.dk/shop/tuxedo-20-standard-65s1.html";"";"12"
+"122";"26";"Tuxedo 20 Auto";"False";"2";"images/Tuxedo20-auto.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"66";"http://ksm-shop.dk/shop/tuxedo-20-auto-66s1.html";"";"12"
+"123";"26";"Tuxedo 20 F-Auto";"False";"3";"images/Tuxedo20-f_auto.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"67";"http://ksm-shop.dk/shop/tuxedo-20-f-auto-67s1.html";"";"12"
+"124";"26";"Tuxedo 20 FX";"False";"4";"images/Tuxedo20-fx.html?hideinterface=1";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"68";"http://ksm-shop.dk/shop/tuxedo-20-fx-68s1.html";"";"12"
+"131";"26";"Tuxedo 30 Standard";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"71";"http://ksm-shop.dk/shop/tuxedo-30-standard-71c1.html";"";"13"
+"132";"26";"Tuxedo 30 Auto";"False";"2";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"72";"http://ksm-shop.dk/shop/tuxedo-30-auto-72c1.html";"";"13"
+"133";"26";"Tuxedo 30 F-Auto";"False";"3";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"73";"http://ksm-shop.dk/shop/tuxedo-30-f-auto-73c1.html";"";"13"
+"134";"26";"Tuxedo 30 FX";"False";"4";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"74";"http://ksm-shop.dk/shop/tuxedo-30-fx-74c1.html";"";"13"
+"141";"26";"Tuxedo 50 Auto";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"76";"http://ksm-shop.dk/shop/tuxedo-50-auto-76c1.html";"";"14"
+"142";"26";"Tuxedo 50 F-Auto";"False";"2";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"77";"http://ksm-shop.dk/shop/tuxedo-50-f-auto-77c1.html";"";"14"
+"143";"26";"Tuxedo 50 FX";"False";"3";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"78";"http://ksm-shop.dk/shop/tuxedo-50-fx-78c1.html";"";"14"
+"151";"26";"Tuxedo 75 Auto";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"79";"http://ksm-shop.dk/shop/tuxedo-75-auto-79c1.html";"";"15"
+"152";"26";"Tuxedo 75 F-Auto";"False";"2";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"80";"http://ksm-shop.dk/shop/tuxedo-75-f-auto-80c1.html";"";"15"
+"153";"26";"Tuxedo 75 FX";"False";"3";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"81";"http://ksm-shop.dk/shop/tuxedo-75-fx-81c1.html";"";"15"
+"161";"26";"Tuxedo 100 Auto";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"82";"http://ksm-shop.dk/shop/tuxedo-100-auto-82c1.html";"";"16"
+"162";"26";"Tuxedo 100 ";"False";"2";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"83";"http://ksm-shop.dk/shop/tuxedo-100-83c1.html";"";"16"
+"163";"26";"Tuxedo 100 FX";"False";"3";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"84";"http://ksm-shop.dk/shop/tuxedo-100-fx-84c1.html";"";"16"
+"171";"26";"Tuxedo 125 Auto";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"85";"http://ksm-shop.dk/shop/tuxedo-125-auto-85c1.html";"";"17"
+"172";"26";"Tuxedo 125 F-Auto";"False";"2";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"86";"http://ksm-shop.dk/shop/tuxedo-125-f-auto-86c1.html";"";"17"
+"173";"26";"Tuxedo 125";"False";"3";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"87";"http://ksm-shop.dk/shop/tuxedo-125-87c1.html";"";"17"
+"111-1";"26";"Askeudtag";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body>[[PRODUCTS]][[3COLUMNLIST]]</body>
+</html>
+";"";"-";"";"";"";"";"89";"http://ksm-shop.dk/shop/askeudtag-89c1.html";"";"111"
+"111-2";"26";"Blæserdele";"False";"2";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"90";"http://ksm-shop.dk/shop/blaeserdele-90c1.html";"";"111"
+"111-3";"26";"Kølespiral";"False";"3";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"91";"http://ksm-shop.dk/shop/koelespiral-91c1.html";"";"111"
+"111-4";"26";"Luftdyser";"False";"4";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"92";"http://ksm-shop.dk/shop/luftdyser-92c1.html";"";"111"
+"111-5";"26";"Rist mm.";"False";"5";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"93";"http://ksm-shop.dk/shop/rist-mm-93c1.html";"";"111"
+"111-6";"26";"Røgrørsrenser";"False";"6";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"94";"http://ksm-shop.dk/shop/roegroersrenser-94c1.html";"";"111"
+"111-7";"26";"Røgsuger";"False";"7";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"95";"http://ksm-shop.dk/shop/roegsuger-95c1.html";"";"111"
+"111-8";"26";"Silo";"False";"8";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"96";"http://ksm-shop.dk/shop/silo-96c1.html";"";"111"
+"111-9";"26";"Skrabebund";"False";"9";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"97";"http://ksm-shop.dk/shop/skrabebund-97c1.html";"";"111"
+"111-10";"26";"Sprinklersystem";"False";"10";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"98";"http://ksm-shop.dk/shop/sprinklersystem-98c1.html";"";"111"
+"111-11";"26";"Sten og isolering";"False";"11";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"99";"http://ksm-shop.dk/shop/sten-og-isolering-99c1.html";"";"111"
+"111-12";"26";"Stokersnegl mm.";"False";"12";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"100";"http://ksm-shop.dk/shop/stokersnegl-mm-100c1.html";"";"111"
+"111-13";"26";"Styring";"False";"13";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"101";"http://ksm-shop.dk/shop/styring-101c1.html";"";"111"
+"111-14";"26";"Tænding";"False";"14";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"102";"http://ksm-shop.dk/shop/taending-102c1.html";"";"111"
+"112-2";"26";"Blæserdele";"False";"2";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"103";"http://ksm-shop.dk/shop/blaeserdele-103c1.html";"";"112"
+"112-1";"26";"Askeudtag";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"104";"http://ksm-shop.dk/shop/askeudtag-104c1.html";"";"112"
+"176";"26";"Askeudtag";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"105";"http://ksm-shop.dk/shop/askeudtag-105c1.html";"";"113"
+"177";"26";"Askeudtag";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"106";"http://ksm-shop.dk/shop/askeudtag-106c1.html";"";"114"
+"178";"26";"Askeudtag";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"107";"http://ksm-shop.dk/shop/askeudtag-107c1.html";"";"121"
+"179";"26";"Askeudtag";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"108";"http://ksm-shop.dk/shop/askeudtag-108c1.html";"";"122"
+"180";"26";"Askeudtag";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"109";"http://ksm-shop.dk/shop/askeudtag-109c1.html";"";"123"
+"181";"26";"Askeudtag";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"110";"http://ksm-shop.dk/shop/askeudtag-110c1.html";"";"124"
+"211";"26";"KSM-Multistoker 175-13 Standard";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"111";"http://ksm-shop.dk/shop/ksm-multistoker-175-13-111s1.html";"";"21"
+"212";"26";"KSM-Multistoker 175-13 Auto";"False";"2";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"112";"http://ksm-shop.dk/shop/ksm-multistoker-175-13-112s1.html";"";"21"
+"213";"26";"KSM-Multistoker 175-13 F-Auto";"False";"3";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"113";"http://ksm-shop.dk/shop/ksm-multistoker-175-13-113s1.html";"";"21"
+"214";"26";"KSM-Multistoker 175-13 FX";"False";"4";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"114";"http://ksm-shop.dk/shop/ksm-multistoker-175-13-114s1.html";"";"21"
+"211-1";"26";"Askeudtag";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"115";"http://ksm-shop.dk/shop/askeudtag-115c1.html";"";"211"
+"212-1";"26";"Askeudtag";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"116";"http://ksm-shop.dk/shop/askeudtag-116c1.html";"";"212"
+"313-1";"26";"Askeudtag";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"117";"http://ksm-shop.dk/shop/askeudtag-117c1.html";"";"213"
+"214-1";"26";"Askeudtag";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"118";"http://ksm-shop.dk/shop/askeudtag-118c1.html";"";"214"
+"221";"26";"KSM-Multistoker 275-18 Standard";"False";"1";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"119";"http://ksm-shop.dk/shop/ksm-multistoker-275-18-119c1.html";"";"22"
+"222";"26";"KSM-Multistoker 275-18 Auto";"False";"2";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"120";"http://ksm-shop.dk/shop/ksm-multistoker-275-18-120c1.html";"";"22"
+"223";"26";"KSM-Multistoker 275-18 F-Auto";"False";"3";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"121";"http://ksm-shop.dk/shop/ksm-multistoker-275-18-121c1.html";"";"22"
+"224";"26";"KSM-Multistoker 175-13 FX";"False";"4";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"122";"http://ksm-shop.dk/shop/ksm-multistoker-175-13-122c1.html";"";"22"
+"112-3";"26";"Brandspjæld";"False";"3";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"123";"http://ksm-shop.dk/shop/brandspjaeld-123c1.html";"";"112"
+"112-4";"26";"Kølespiral";"False";"4";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"124";"http://ksm-shop.dk/shop/koelespiral-124c1.html";"";"112"
+"112-5";"26";"Luftdyser";"False";"5";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"125";"http://ksm-shop.dk/shop/luftdyser-125c1.html";"";"112"
+"112-6";"26";"Rist mm.";"False";"6";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"126";"http://ksm-shop.dk/shop/rist-mm-126c1.html";"";"112"
+"112-7";"26";"Røgrørsrenser";"False";"7";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"127";"http://ksm-shop.dk/shop/roegroersrenser-127c1.html";"";"112"
+"112-8";"26";"Røgsuger";"False";"8";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"128";"http://ksm-shop.dk/shop/roegsuger-128c1.html";"";"112"
+"112-9";"26";"Skrabebund";"False";"9";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"129";"http://ksm-shop.dk/shop/skrabebund-129c1.html";"";"112"
+"112-10";"26";"Sprinklersystem";"False";"10";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"130";"http://ksm-shop.dk/shop/sprinklersystem-130c1.html";"";"112"
+"112-11";"26";"Sten og isolering";"False";"11";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"131";"http://ksm-shop.dk/shop/sten-og-isolering-131c1.html";"";"112"
+"112-12";"26";"Stokersnegl mm.";"False";"12";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"132";"http://ksm-shop.dk/shop/stokersnegl-mm-132c1.html";"";"112"
+"112-13";"26";"Styring";"False";"13";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"133";"http://ksm-shop.dk/shop/styring-133c1.html";"";"112"
+"112-14";"26";"Tænding";"False";"14";"";"<html>
+<head>
+	<title></title>
+</head>
+<body></body>
+</html>
+";"";"-";"";"";"";"";"135";"http://ksm-shop.dk/shop/taending-135c1.html";"";"112"

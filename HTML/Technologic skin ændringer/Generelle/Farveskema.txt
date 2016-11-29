@@ -1,0 +1,3 @@
+Rød topbar: 0xFF0000
+
+koksgrå hovedmenu-bjælke: 0x363636
