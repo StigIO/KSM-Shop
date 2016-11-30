@@ -8,7 +8,7 @@ i Design -> skin -> rediger skin -> kodefelter.
 2)
 produkt dropdown kun 1 linie ved fuld skærm
 
-  #menu-area{max-width: none;}
+  #main_menu{max-width: 90rem;}
 
 i Design -> skin -> rediger skin -> kodefelter.
 
