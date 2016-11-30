@@ -1,3 +1,14 @@
 Rød topbar: 0xFF0000
 
 koksgrå hovedmenu-bjælke: 0x363636
+
+SKIN REDIGERING
+Skin specifikke styles (Gennerelle)
+Baggrund 	#3b3b3b
+text 		#363636
+knapper (ikke alle) 	#ff5b42
+knapper hover (ikke alle) #ff3c22
+
+Overskrift box	#ff5b42
+farve		#ffffff
+
