@@ -9,7 +9,7 @@
   .WebShopSkinLogo{width: 160px;}    
   
   
-  #menu-area{max-width: none;}  
+  #main_menu{max-width: 90rem}  
  
   div.products-wrapper{visibility: hidden; height: 0px;}
   

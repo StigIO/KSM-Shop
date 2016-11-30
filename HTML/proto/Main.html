@@ -4,26 +4,108 @@
 	<title>KSM-Stoker</title>
 <style>
 	.WebShopSkinLogo{width: 160px;}   
-
+	
+	#Webshop-spacetop{height: 163px;}
+	
 	#logo-row{background-color: #ff0000; padding-top:10px; padding-bottom: 10px}	
+	
 	img{display: inline-block; vertical-align: center;}
+	
 	.row{width: 100%; margin-left: auto; margin-right: auto;
-			margin-top: 0px; margin.bottom: 0px; max-width: 76.18rem; padding:  0px 30px 0px 45px; }
+			margin-top: 0px; margin.bottom: 0px; max-width: 76.78rem; padding:  0px auto 0px auto; }
+	
 	body{margin: 0px;}
-	img[Attributes Style] {
-    border-top-width: 0px;
-    border-right-width: 0px;
-    border-bottom-width: 0px;
-    border-left-width: 0px;
-    border-top-style: solid;
-    border-right-style: solid;
-    border-bottom-style: solid;
-    border-left-style: solid;
-	}
+		
+	#logobox{position: relative; left: 4rem; padding-left: 0.89286rem; padding-right: 0.89286rem; width: 41.66667%; max-width:800px;}
 	
-	#logobox{position: relative; padding-left: 0.89286rem; padding-right: 0.89286rem; width: 41.66667%; max-width:800px;}
-	#main-dropdown{height: 40px; background-color: #00ff00;}
+	#main-navbar{height: 60px; background-color: #363636; position: relative; top: -4px; text-align:center; align-items: center;}
 	
+	#page-content{height: 1000px; background-color: #ffffff;}
+	
+
+	
+	#primary_nav_wrap
+{
+	margin-top:0px
+	
+}
+
+li{padding-top:14px; padding-bottom: 14px;}
+
+#primary_nav_wrap ul
+{
+	list-style:none;
+	position:relative;
+	float:left;
+	margin:auto;
+	
+}
+
+#primary_nav_wrap ul a
+{
+	display:block;
+	color:#ffffff;
+	text-decoration:none;
+	font-weight:700;
+	font-size:12px;
+	line-height:32px;
+	padding:0 15px;
+	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
+}
+
+#primary_nav_wrap ul li
+{
+	position:relative;
+	float:left;
+	margin:0;
+	padding:14;
+}
+
+#primary_nav_wrap ul li.current-menu-item
+{
+	background:#3b3b3b
+}
+
+#primary_nav_wrap ul li:hover
+{
+	background:#2e2e2e
+}
+
+#primary_nav_wrap ul ul
+{
+	display:none;
+	position:absolute;
+	top:100%;
+	left:0;
+	background:#3b3b3b;
+	padding:0
+}
+
+#primary_nav_wrap ul ul li
+{
+	float:none;
+	width:200px
+}
+
+#primary_nav_wrap ul ul a
+{
+	line-height:120%;
+	padding:10px 15px
+}
+
+#primary_nav_wrap ul ul ul
+{
+	top:0;
+	left:100%
+}
+
+#primary_nav_wrap ul li:hover > ul
+{
+	display:block
+}
+	
+	
+
 </style>
 </head>
 
@@ -33,18 +115,73 @@
 			<div id="logo-row">
 				<div class="row">
 					<div id="logobox" class="column small-5 logo">
-						<a href="/shop/frontpage.html">
+						<a href="Main.html">
 						<img border="0" class="WebShopSkinLogo" src="215285Logo2012 jpg.jpg">
 						</a>
 					</div>
 				
 				</div>
 			</div>
-			<div id="main-dropdown">
-				
+			<div id="main-navbar">
+				<nav id="primary_nav_wrap">
+					<ul>
+					  <li class="current-menu-item"><a href="#">Home</a></li>
+					  <li><a href="#">Menu 1</a>
+						<ul>
+						  <li><a href="#">Sub Menu 1</a></li>
+						  <li><a href="#">Sub Menu 2</a></li>
+						  <li><a href="#">Sub Menu 3</a></li>
+						  <li><a href="#">Sub Menu 4</a>
+							<ul>
+							  <li><a href="#">Deep Menu 1</a>
+								<ul>
+								  <li><a href="#">Sub Deep 1</a></li>
+								  <li><a href="#">Sub Deep 2</a></li>
+								  <li><a href="#">Sub Deep 3</a></li>
+									<li><a href="#">Sub Deep 4</a></li>
+								</ul>
+							  </li>
+							  <li><a href="#">Deep Menu 2</a></li>
+							</ul>
+						  </li>
+						  <li><a href="#">Sub Menu 5</a></li>
+						</ul>
+					  </li>
+					  <li><a href="#">Menu 2</a>
+						<ul>
+						  <li><a href="#">Sub Menu 1</a></li>
+						  <li><a href="#">Sub Menu 2</a></li>
+						  <li><a href="#">Sub Menu 3</a></li>
+						</ul>
+					  </li>
+					  <li><a href="#">Menu 3</a>
+						<ul>
+						  <li class="dir"><a href="#">Sub Menu 1</a></li>
+						  <li class="dir"><a href="#">Sub Menu 2 THIS IS SO LONG IT MIGHT CAUSE AN ISSEUE BUT MAYBE NOT?</a>
+							<ul>
+							  <li><a href="#">Category 1</a></li>
+							  <li><a href="#">Category 2</a></li>
+							  <li><a href="#">Category 3</a></li>
+							  <li><a href="#">Category 4</a></li>
+							  <li><a href="#">Category 5</a></li>
+							</ul>
+						  </li>
+						  <li><a href="#">Sub Menu 3</a></li>
+						  <li><a href="#">Sub Menu 4</a></li>
+						  <li><a href="#">Sub Menu 5</a></li>
+						</ul>
+					  </li>
+					  <li><a href="#">Menu 4</a></li>
+					  <li><a href="#">Menu 5</a></li>
+					  <li><a href="#">Menu 6</a></li>
+					  <li><a href="#">Contact Us</a></li>
+					</ul>
+				</nav>
 			</div>
 		</header>
-
+	<div id="page-content">
+		
+	</div>
 	</div><!-- SiteMainLayoutTable -->
 
 </body>
