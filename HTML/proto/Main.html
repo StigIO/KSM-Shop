@@ -22,90 +22,79 @@
 	
 	#page-content{height: 1000px; background-color: #ffffff;}
 	
+	#menu-div{	
+	max-width:800px;
+	width: 500px;
+	background-color: white; 
+	height:inherit; 
+	margin: 0 auto;		
+	border: none;
+	}
 
 	
-	#primary_nav_wrap
-{
-	margin-top:0px
 	
-}
-
-li{padding-top:14px; padding-bottom: 14px;}
-
-#primary_nav_wrap ul
-{
-	list-style:none;
-	position:relative;
-	float:left;
-	margin:auto;
+	.menu-link{	
+	float: left;
+	color:white;	
+	background-color: #363636;
+	color: white;
+	padding: 23px 16px 22px 16px;
+	text-decoration: none;
+	display: block;	
+	}	
 	
-}
+	.menu-link:hover{
+	background-color: #3b3b3b;
+	}
+	
+	/* dropdown button	*/
+	.dropbtn{
+	height: 100%;
+	padding: 23px 16px 22px 16px;
+	background-color: #363636;
+	color: white;
+	cursor: pointer;
+	border: none;	
+	}
+	
+	/*	the container needed to position the dropdown content	*/	
+	.dropdown{
+	float: left;
+	position: relative;
+	display: inline-block;
+	}
+	
+	/*	dropdown Content (hidden by default)	*/	
+	.dropdown-content{
+	display: none;
+	position: absolute;
+	background-color: #363636;
+	min-width: 160px;	
+	}
+	
+	.dropdown-content a{
+	color: white;
+	padding: 16px 16px;
+	text-decoration: none;
+	display: block;
+	}
+	
+	/* Change background-color of dropdown links on hover */
+	.dropdown-content a:hover {
+	background-color: #3b3b3b;
+	}
+	
+	/* Show the dropdown menu on hover */
+	.dropdown:hover .dropdown-content {
+    display: block;
+	}
 
-#primary_nav_wrap ul a
-{
-	display:block;
-	color:#ffffff;
-	text-decoration:none;
-	font-weight:700;
-	font-size:12px;
-	line-height:32px;
-	padding:0 15px;
-	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
-}
-
-#primary_nav_wrap ul li
-{
-	position:relative;
-	float:left;
-	margin:0;
-	padding:14;
-}
-
-#primary_nav_wrap ul li.current-menu-item
-{
-	background:#3b3b3b
-}
-
-#primary_nav_wrap ul li:hover
-{
-	background:#2e2e2e
-}
-
-#primary_nav_wrap ul ul
-{
-	display:none;
-	position:absolute;
-	top:100%;
-	left:0;
-	background:#3b3b3b;
-	padding:0
-}
-
-#primary_nav_wrap ul ul li
-{
-	float:none;
-	width:200px
-}
-
-#primary_nav_wrap ul ul a
-{
-	line-height:120%;
-	padding:10px 15px
-}
-
-#primary_nav_wrap ul ul ul
-{
-	top:0;
-	left:100%
-}
-
-#primary_nav_wrap ul li:hover > ul
-{
-	display:block
-}
+	/* Change the background color of the dropdown button when the dropdown content is shown */
+	.dropdown:hover .dropbtn {
+    background-color: #3b3b3b;
+	}
 	
 	
-
 </style>
 </head>
 
@@ -123,60 +112,44 @@ li{padding-top:14px; padding-bottom: 14px;}
 				</div>
 			</div>
 			<div id="main-navbar">
-				<nav id="primary_nav_wrap">
-					<ul>
-					  <li class="current-menu-item"><a href="#">Home</a></li>
-					  <li><a href="#">Menu 1</a>
-						<ul>
-						  <li><a href="#">Sub Menu 1</a></li>
-						  <li><a href="#">Sub Menu 2</a></li>
-						  <li><a href="#">Sub Menu 3</a></li>
-						  <li><a href="#">Sub Menu 4</a>
-							<ul>
-							  <li><a href="#">Deep Menu 1</a>
-								<ul>
-								  <li><a href="#">Sub Deep 1</a></li>
-								  <li><a href="#">Sub Deep 2</a></li>
-								  <li><a href="#">Sub Deep 3</a></li>
-									<li><a href="#">Sub Deep 4</a></li>
-								</ul>
-							  </li>
-							  <li><a href="#">Deep Menu 2</a></li>
-							</ul>
-						  </li>
-						  <li><a href="#">Sub Menu 5</a></li>
-						</ul>
-					  </li>
-					  <li><a href="#">Menu 2</a>
-						<ul>
-						  <li><a href="#">Sub Menu 1</a></li>
-						  <li><a href="#">Sub Menu 2</a></li>
-						  <li><a href="#">Sub Menu 3</a></li>
-						</ul>
-					  </li>
-					  <li><a href="#">Menu 3</a>
-						<ul>
-						  <li class="dir"><a href="#">Sub Menu 1</a></li>
-						  <li class="dir"><a href="#">Sub Menu 2 THIS IS SO LONG IT MIGHT CAUSE AN ISSEUE BUT MAYBE NOT?</a>
-							<ul>
-							  <li><a href="#">Category 1</a></li>
-							  <li><a href="#">Category 2</a></li>
-							  <li><a href="#">Category 3</a></li>
-							  <li><a href="#">Category 4</a></li>
-							  <li><a href="#">Category 5</a></li>
-							</ul>
-						  </li>
-						  <li><a href="#">Sub Menu 3</a></li>
-						  <li><a href="#">Sub Menu 4</a></li>
-						  <li><a href="#">Sub Menu 5</a></li>
-						</ul>
-					  </li>
-					  <li><a href="#">Menu 4</a></li>
-					  <li><a href="#">Menu 5</a></li>
-					  <li><a href="#">Menu 6</a></li>
-					  <li><a href="#">Contact Us</a></li>
-					</ul>
-				</nav>
+				<div id="menu-div">
+					
+					<div class="dropdown">						
+						<button class="dropbtn">Produkter</button>
+							<div class="dropdown-content">
+							<a href="#">link1</a>
+							<a href="#">link2</a>
+							<a href="#">link3</a>						
+						</div>
+					</div>
+					<div class="dropdown">						
+						<button class="dropbtn">Firmaprofil</button>
+							<div class="dropdown-content">
+							<a href="#">link1</a>
+							<a href="#">link2</a>
+							<a href="#">link3</a>						
+						</div>
+					</div>
+					
+						<a href="http://www.google.com" class="menu-link">Kontakt</a>
+					
+					<div class="dropdown">						
+						<button class="dropbtn">Dropdown</button>
+							<div class="dropdown-content">
+							<a href="#">link1</a>
+							<a href="#">link2</a>
+							<a href="#">link3</a>						
+						</div>
+					</div>
+					<div class="dropdown">						
+						<button class="dropbtn">Dropdown</button>
+							<div class="dropdown-content">
+							<a href="#">link1</a>
+							<a href="#">link2</a>
+							<a href="#">link3</a>						
+						</div>
+					</div>
+					
 			</div>
 		</header>
 	<div id="page-content">
