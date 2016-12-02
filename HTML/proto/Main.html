@@ -5,11 +5,11 @@
 <style>
 	.WebShopSkinLogo{width: 160px;}   
 	
-	#Webshop-spacetop{height: 163px;}
+	#Webshop-spacetop{height: 163px; display: block; position: fixed; width: 100%; top: 0px; z-index: 5;}
 	
-	#logo-row{background-color: #ff0000; padding-top:10px; padding-bottom: 10px}	
+	#logo-row{background-color: #ff0000; padding-top:10px; padding-bottom: 10px; height: 83px;}	
 	
-	img{display: inline-block; vertical-align: center;}
+	img{display: block;}
 	
 	.row{width: 100%; margin-left: auto; margin-right: auto;
 			margin-top: 0px; margin.bottom: 0px; max-width: 76.78rem; padding:  0px auto 0px auto; }
@@ -18,58 +18,66 @@
 		
 	#logobox{position: relative; left: 4rem; padding-left: 0.89286rem; padding-right: 0.89286rem; width: 41.66667%; max-width:800px;}
 	
-	#main-navbar{height: 60px; background-color: #363636; position: relative; top: -4px; text-align:center; align-items: center;}
+	#main-navbar{height: 60px; background-color: #363636; position: relative; text-align:center; align-items: center;}
 	
-	#page-content{height: 1000px; background-color: #ffffff;}
+	#page-content{height: 1000px; background-color: #ffffff; width: 100%;}
 	
 	#menu-div{	
-	max-width:800px;
-	width: 500px;
+	max-width:900px;
+	width: 720px;
 	background-color: white; 
 	height:inherit; 
 	margin: 0 auto;		
 	border: none;
 	}
 
+	.dropdown-Link{
+	text-align: center;
+	border:none;
+	float: left;
+	position: relative;
+	display: inline-block;
+	height: 60px;
+	min-width: 86px;	
+	text-align: center;
+	}	
 	
+	.normal-link{
+	text-align: center;
+	border:none;
+	float: left;
+	position: relative;
+	display: inline-block;
+	height: 60px;
+	min-width: 86px;	
+	text-align: center;
+	}	
 	
 	.menu-link{	
 	float: left;
 	color:white;	
 	background-color: #363636;
 	color: white;
-	padding: 23px 16px 22px 16px;
+	padding: 21px 10px; 21px; 10px;	/* total width 120px*/
 	text-decoration: none;
 	display: block;	
+	min-width: 100px;	
 	}	
 	
 	.menu-link:hover{
-	background-color: #3b3b3b;
+	background-color: #2e2e2e;
 	}
 	
-	/* dropdown button	*/
-	.dropbtn{
-	height: 100%;
-	padding: 23px 16px 22px 16px;
-	background-color: #363636;
-	color: white;
-	cursor: pointer;
-	border: none;	
-	}
 	
-	/*	the container needed to position the dropdown content	*/	
-	.dropdown{
-	float: left;
-	position: relative;
-	display: inline-block;
-	}
 	
 	/*	dropdown Content (hidden by default)	*/	
 	.dropdown-content{
 	display: none;
 	position: absolute;
+	top: 60px;	
 	background-color: #363636;
-	min-width: 160px;	
+	min-width: 120px;	
+	z-index: 10;
 	}
 	
 	.dropdown-content a{
@@ -81,20 +89,57 @@
 	
 	/* Change background-color of dropdown links on hover */
 	.dropdown-content a:hover {
-	background-color: #3b3b3b;
+	background-color: #2e2e2e;
 	}
 	
+		
 	/* Show the dropdown menu on hover */
-	.dropdown:hover .dropdown-content {
+	.dropdown-Link:hover .dropdown-content {
     display: block;
 	}
-
+	
 	/* Change the background color of the dropdown button when the dropdown content is shown */
-	.dropdown:hover .dropbtn {
-    background-color: #3b3b3b;
+	.dropdown-Link:hover .menu-link {
+    background-color: #2e2e2e;
 	}
 	
+	.background-container{
+	text-align: center;
+	min-width: 800px;
+	position: relative;	
+	}
 	
+	.background-image{
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+	position: fixed;
+	top: 163px;
+	}
+	
+	.transparent-div{
+	position: relative;
+	top: 300px;
+	display: block;
+	margin: auto;
+	z-index: 1;
+	background: rgba(255,255,255,.65);
+	height:5000px;
+	width: 800px;
+	text-align: left;
+	}
+	
+	h1{
+	font-family: Verdana;
+	padding: 10px;
+	}
+	
+	.regular-font{
+	font-family: Verdana;
+	color: black;
+	font-size: 24px;
+	padding: 10px;
+	}
 </style>
 </head>
 
@@ -113,49 +158,70 @@
 			</div>
 			<div id="main-navbar">
 				<div id="menu-div">
-					
-					<div class="dropdown">						
-						<button class="dropbtn">Produkter</button>
-							<div class="dropdown-content">
-							<a href="#">link1</a>
-							<a href="#">link2</a>
-							<a href="#">link3</a>						
-						</div>
-					</div>
-					<div class="dropdown">						
-						<button class="dropbtn">Firmaprofil</button>
-							<div class="dropdown-content">
+				
+					<div class="dropdown-Link">
+						<a href="http://www.google.com" class="menu-link">Produkter</a>							
+						<div class="dropdown-content">
 							<a href="#">link1</a>
 							<a href="#">link2</a>
 							<a href="#">link3</a>						
 						</div>
 					</div>
 					
-						<a href="http://www.google.com" class="menu-link">Kontakt</a>
-					
-					<div class="dropdown">						
-						<button class="dropbtn">Dropdown</button>
-							<div class="dropdown-content">
-							<a href="#">link1</a>
-							<a href="#">link2</a>
-							<a href="#">link3</a>						
-						</div>
-					</div>
-					<div class="dropdown">						
-						<button class="dropbtn">Dropdown</button>
-							<div class="dropdown-content">
+					<div class="dropdown-Link">
+						<a href="http://www.google.com" class="menu-link">Kontakt</a>							
+						<div class="dropdown-content">
 							<a href="#">link1</a>
 							<a href="#">link2</a>
 							<a href="#">link3</a>						
 						</div>
 					</div>
 					
+					<div class="dropdown-Link">
+						<a href="http://www.google.com" class="menu-link">Firmaprofil</a>							
+						<div class="dropdown-content">
+							<a href="#">link1</a>
+							<a href="#">link2</a>
+							<a href="#">link3</a>						
+						</div>
+					</div>
+					
+					<div class="dropdown-Link">
+						<a href="http://www.google.com" class="menu-link">Download</a>							
+						<div class="dropdown-content">
+							<a href="#">link1</a>
+							<a href="#">link2</a>
+							<a href="#">link3</a>						
+						</div>
+					</div>
+					
+					<div class="dropdown-Link">
+						<a href="http://www.google.com" class="menu-link">Service</a>							
+						<div class="dropdown-content">
+							<a href="#">link1</a>
+							<a href="#">link2</a>
+							<a href="#">link3</a>						
+						</div>
+					</div>
+					
+					<div class="normal-link">
+						<a href="http://www.google.com" class="menu-link">Forside</a>	
+					</div>					
 			</div>
 		</header>
 	<div id="page-content">
+		<div class="background-container">
+			<img border="0" src="faerge1.jpg" class="background-image">
+		</div>
 		
+		<div class="transparent-div">	
+			<h1>Velkommen til KSM-Stoker</h1>
+			<p class="regular-font">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec tempus magna. Integer placerat mauris laoreet sagittis rhoncus. Pellentesque et risus at turpis porttitor tempus. Mauris tincidunt turpis velit, id commodo mi tempor ac. Cras volutpat tortor imperdiet, venenatis urna sed, rhoncus odio. Phasellus finibus fringilla vehicula. Pellentesque posuere purus eu justo malesuada, quis porta enim iaculis. Donec interdum eros ac odio malesuada placerat. Sed varius tempor ante a cursus. Aliquam auctor quam vitae tortor dignissim mollis. Vestibulum at euismod nunc. Nunc at pharetra augue. Cras cursus nibh id elit ornare, quis consequat erat congue. Curabitur metus ligula, mattis at dolor at, molestie lacinia est. Sed lacinia condimentum ultrices. Vestibulum feugiat blandit lobortis.</p>
+		</div>
 	</div>
 	</div><!-- SiteMainLayoutTable -->
 
 </body>
 </html>
+
+<!-- Skrevet af Stig C. Hansesgaard 2016 stighansesgaard@gmail.com -->
