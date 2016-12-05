@@ -2,231 +2,8 @@
 <html>
 <head>
 	<title>KSM-Stoker</title>
-<style>
-	#SiteMainLayoutTable{
-	position: relative;		
-	}
+	<link rel="stylesheet" type="text/css" href="main-styles.css">	
 	
-	.WebShopSkinLogo{
-	width: 160px;
-	}   
-	
-	#Webshop-spacetop{
-	height: 163px; 
-	display: block; 
-	position: fixed; 
-	width: 100%; 
-	z-index: 5;
-	}
-	
-	#logo-row{
-	background-color: #ff0000; 
-	padding-top:10px; 
-	padding-bottom: 10px; 
-	height: 83px;
-	}	
-	
-	img{
-	display: block;
-	}
-	
-	.row{
-	width: 100%; 
-	margin-left: auto; 
-	margin-right: auto;
-	margin-top: 0px; 
-	margin.bottom: 0px; 
-	max-width: 76.78rem; 
-	padding:  0px auto 0px auto; 
-	}
-	
-	body{
-	margin: 0;
-	}
-		
-	#logobox{
-	position: relative; 
-	left: 4rem; 
-	padding-left: 0.89286rem; 
-	padding-right: 0.89286rem; 
-	width: 41.66667%; 
-	max-width:800px;
-	}
-	
-	#main-navbar{
-	height: 60px; 
-	background-color: #363636; 
-	position: relative; 
-	text-align:center; 
-	align-items: center;
-	}
-	
-	#page-content{
-	position: relative; 
-	top: 163px; 
-	min-height:100%; 
-	background-color: #ffffff; 
-	height: 100%; 
-	padding-bottom: 50px;
-	}
-	
-	#menu-div{	
-	max-width:900px;
-	width: 498px;
-	background-color: #363636; 
-	height:inherit; 
-	margin: 0 auto;		
-	border: none;
-	}
-
-	.dropdown-Link{
-	text-align: center;
-	border:none;
-	float: left;
-	position: relative;
-	display: inline-block;
-	height: 60px;	
-	text-align: center;
-	}	
-	
-	.normal-link{
-	text-align: center;
-	border:none;
-	float: left;
-	position: relative;
-	display: inline-block;
-	height: 60px;	
-	text-align: center;
-	}	
-	
-	.menu-link{	
-	float: left;
-	color:white;	
-	background-color: #363636;
-	color: white;
-	padding: 21px 10px; 21px; 10px;	/* total width 120px*/
-	text-decoration: none;
-	display: block;			
-	font-family: Arial;
-	font-size: 12;
-	}	
-	
-	.menu-link:hover{
-	background-color: #2e2e2e;
-	}
-	
-	
-	
-	/*	dropdown Content (hidden by default)	*/	
-	.dropdown-content{
-	display: none;
-	position: absolute;
-	top: 60px;	
-	background-color: #363636;
-		
-	z-index: 10;
-	min-width: 120px;
-	}
-	
-	.dropdown-content a{
-	text-align:left;
-	color: white;
-	padding: 16px 10px;
-	text-decoration: none;
-	display: block;
-	font-family: Arial;
-	font-size: 12;
-	}
-	
-	/* Change background-color of dropdown links on hover */
-	.dropdown-content a:hover {
-	background-color: #2e2e2e;
-	}
-	
-		
-	/* Show the dropdown menu on hover */
-	.dropdown-Link:hover .dropdown-content {
-    display: block;
-	}
-	
-	/* Change the background color of the dropdown button when the dropdown content is shown */
-	.dropdown-Link:hover .menu-link {
-    background-color: #2e2e2e;
-	}
-	
-	.background-container{
-	text-align: center;
-	min-width: 800px;
-	position: relative;	
-	}
-	
-	.background-image{
-	display: block;
-	margin: 0 auto;
-	max-width: none;
-	position: fixed;
-	top: 163px;
-	
-	}
-	
-	.transparent-div{
-	position: relative;
-	top: 16px;
-	display: block;
-	margin: auto;	
-	z-index: 1;
-	background: rgba(1,1,1,.65);
-	height: 100%;
-	/*max-height: 740px;*/
-	margin-bottom: 40px;
-	padding-top: 10px;
-	width: 800px;
-	text-align: left;
-	
-	border-radius: 5px 5px 5px 5px;
-	}
-	
-	h1{
-	font-family: Arial;
-	padding: 0;
-	margin: 0px 10px 0 10px;
-	color: whitesmoke;
-	text-align: center;
-	}
-	
-	.regular-font{
-	font-family: Arial;
-	color: whitesmoke;
-	font-size: 14px;
-	padding-left: 10px;
-	padding-right: 10px;
-	}
-	
-	.footer{
-	display: inline-block;
-	position: fixed;
-	width: 100%;
-	bottom: 0px;
-	height: 30px;
-	background-color: #343434;
-	z-index: 10;
-	text-align: center;
-	padding-bottom: 2px;
-	}
-	
-	.footer-text{
-	color: whitesmoke;
-	font-family: Arial;
-	font-size:12px;
-	margin-top: 10px;
-	}
-	
-	.content-picture{
-	padding-left: 8px;
-	display: inline-block;	
-	max-width: 784px;
-	}
-</style>
 </head>
 
 <body class="Website-frontpage">
@@ -246,52 +23,63 @@
 				<div id="menu-div">
 					
 					<div class="normal-link">
-						<a href="http://www.google.com" class="menu-link">Forside</a>	
+						<a href="Main.html" class="menu-link">Forside</a>	
 					</div>		
 					
 					<div class="dropdown-Link">
-						<a href="http://www.google.com" class="menu-link">Produkter</a>							
+						<a href="#" class="menu-link">Produkter</a>							
 						<div class="dropdown-content">
-							<a href="#">link1</a>
-							<a href="#">link2</a>
-							<a href="#">link3</a>						
+							<a href="#">12 - 95kW</a>
+							<a href="#">145 - 360kW</a>
+							<a href="#">500 - 990kW</a>		
+							<a href="#">Ekstraudstyr</a>	
+							<a href="#">Tilbehør</a>	
+							<a href="#">Containerløsninger</a>	
+							<a href="#">Totalløsninger</a>									
 						</div>
 					</div>
 					
 					<div class="dropdown-Link">
-						<a href="http://www.google.com" class="menu-link">Kontakt</a>							
+						<a href="#" class="menu-link">Kontakt</a>
+						<!-- kontakt har ikke brug for underpunkter
 						<div class="dropdown-content">
 							<a href="#">link1</a>
 							<a href="#">link2</a>
 							<a href="#">link3</a>						
+						</div>
+						-->
+					</div>
+					
+					<div class="dropdown-Link">
+						<a href="#" class="menu-link">Firmaprofil</a>							
+						<div class="dropdown-content">
+							<a href="#">Om KSM-Stoker A/S</a>
+							<a href="#">Nyhedsoversigt</a>
+							<a href="#">Presse</a>	
+							<a href="#">Forhandlere</a>								
 						</div>
 					</div>
 					
 					<div class="dropdown-Link">
-						<a href="http://www.google.com" class="menu-link">Firmaprofil</a>							
+						<a href="#" class="menu-link">Download</a>							
 						<div class="dropdown-content">
-							<a href="#">link1</a>
-							<a href="#">link2</a>
-							<a href="#">link3</a>						
+							<a href="#">Brugervejledninger</a>
+							<a href="#">Prøvningsrapporter</a>
+							<a href="#">Fjelfindingsskemaer</a>
+							<a href="#">Rørdiagrammer</a>
+							<a href="#">Målskitser</a>								
 						</div>
 					</div>
 					
 					<div class="dropdown-Link">
-						<a href="http://www.google.com" class="menu-link">Download</a>							
+						<a href="#" class="menu-link">Service</a>	
+						<!-- Ingen brug for dropdown. Skal bare linke til en side med et eksternt link til stokerservice.dk
 						<div class="dropdown-content">
 							<a href="#">link1</a>
 							<a href="#">link2</a>
 							<a href="#">link3</a>						
 						</div>
-					</div>
-					
-					<div class="dropdown-Link">
-						<a href="http://www.google.com" class="menu-link">Service</a>							
-						<div class="dropdown-content">
-							<a href="#">link1</a>
-							<a href="#">link2</a>
-							<a href="#">link3</a>						
-						</div>
+						-->
 					</div>
 					
 								
@@ -300,8 +88,8 @@
 		</header>
 			
 		<div id="page-content">		
-			<!-- background source: https://www.pexels.com/photo/wood-explosion-fire-hot-8504/-->
-			<img  border="0" src="ild.jpg" class="background-image">
+			
+<img  border="0" src="ild.jpg" class="background-image">
 			<div class="transparent-div">	
 				<h1>Velkommen til KSM-Stoker</h1>
 				
@@ -319,7 +107,6 @@
 				<p class="regular-font">Hinc tollit aliquam ex est, solet mucius no pri, et democritum deterruisset delicatissimi ius. Sed ut zril quaestio consectetuer. Sumo vituperata ius ut, eu habeo dicat regione vim, exerci salutandi intellegat ex ius. Ne malorum pertinacia vel, nec eius postulant assueverit et, sit tincidunt honestatis scriptorem eu.Ex mei regione intellegat. Sea amet probo vituperata no, pro ad commune adversarium. Ea meis volumus erroribus quo. Ea sea populo scripserit, nostro commodo delenit ad pro, veniam commune consequat eos ea. Doctus aliquip mentitum usu te, usu simul adversarium ex, qui solet laoreet id.</p>
 				<p class="regular-font">Ex mei regione intellegat. Sea amet probo vituperata no, pro ad commune adversarium. Ea meis volumus erroribus quo. Ea sea populo scripserit, nostro commodo delenit ad pro, veniam commune consequat eos ea. Doctus aliquip mentitum usu te, usu simul adversarium ex, qui solet laoreet id.</p>
 			</div>
-			
 		</div>	
 		<div class="footer">
 				<p class="footer-text">KSM-stoker • Næssundvej 440, 7960 Karby • E-mail: mail@ksm-stoker.dk • Tlf.: 97761072</p>
@@ -329,4 +116,3 @@
 </body>
 </html>
 
-<!-- Skrevet af Stig C. Hansesgaard 2016 stighansesgaard@gmail.com -->
