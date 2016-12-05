@@ -3,29 +3,77 @@
 <head>
 	<title>KSM-Stoker</title>
 <style>
-	.WebShopSkinLogo{width: 160px;}   
+	#SiteMainLayoutTable{
+	position: relative;		
+	}
 	
-	#Webshop-spacetop{height: 163px; display: block; position: fixed; width: 100%; top: 0px; z-index: 5;}
+	.WebShopSkinLogo{
+	width: 160px;
+	}   
 	
-	#logo-row{background-color: #ff0000; padding-top:10px; padding-bottom: 10px; height: 83px;}	
+	#Webshop-spacetop{
+	height: 163px; 
+	display: block; 
+	position: fixed; 
+	width: 100%; 
+	z-index: 5;
+	}
 	
-	img{display: block;}
+	#logo-row{
+	background-color: #ff0000; 
+	padding-top:10px; 
+	padding-bottom: 10px; 
+	height: 83px;
+	}	
 	
-	.row{width: 100%; margin-left: auto; margin-right: auto;
-			margin-top: 0px; margin.bottom: 0px; max-width: 76.78rem; padding:  0px auto 0px auto; }
+	img{
+	display: block;
+	}
 	
-	body{margin: 0px;}
+	.row{
+	width: 100%; 
+	margin-left: auto; 
+	margin-right: auto;
+	margin-top: 0px; 
+	margin.bottom: 0px; 
+	max-width: 76.78rem; 
+	padding:  0px auto 0px auto; 
+	}
+	
+	body{
+	margin: 0;
+	}
 		
-	#logobox{position: relative; left: 4rem; padding-left: 0.89286rem; padding-right: 0.89286rem; width: 41.66667%; max-width:800px;}
+	#logobox{
+	position: relative; 
+	left: 4rem; 
+	padding-left: 0.89286rem; 
+	padding-right: 0.89286rem; 
+	width: 41.66667%; 
+	max-width:800px;
+	}
 	
-	#main-navbar{height: 60px; background-color: #363636; position: relative; text-align:center; align-items: center;}
+	#main-navbar{
+	height: 60px; 
+	background-color: #363636; 
+	position: relative; 
+	text-align:center; 
+	align-items: center;
+	}
 	
-	#page-content{height: 1000px; background-color: #ffffff; width: 100%;}
+	#page-content{
+	position: relative; 
+	top: 163px; 
+	min-height:100%; 
+	background-color: #ffffff; 
+	height: 100%; 
+	padding-bottom: 50px;
+	}
 	
 	#menu-div{	
 	max-width:900px;
-	width: 720px;
-	background-color: white; 
+	width: 498px;
+	background-color: #363636; 
 	height:inherit; 
 	margin: 0 auto;		
 	border: none;
@@ -37,8 +85,7 @@
 	float: left;
 	position: relative;
 	display: inline-block;
-	height: 60px;
-	min-width: 86px;	
+	height: 60px;	
 	text-align: center;
 	}	
 	
@@ -48,8 +95,7 @@
 	float: left;
 	position: relative;
 	display: inline-block;
-	height: 60px;
-	min-width: 86px;	
+	height: 60px;	
 	text-align: center;
 	}	
 	
@@ -60,8 +106,9 @@
 	color: white;
 	padding: 21px 10px; 21px; 10px;	/* total width 120px*/
 	text-decoration: none;
-	display: block;	
-	min-width: 100px;	
+	display: block;			
+	font-family: Arial;
+	font-size: 12;
 	}	
 	
 	.menu-link:hover{
@@ -76,15 +123,19 @@
 	position: absolute;
 	top: 60px;	
 	background-color: #363636;
-	min-width: 120px;	
+		
 	z-index: 10;
+	min-width: 120px;
 	}
 	
 	.dropdown-content a{
+	text-align:left;
 	color: white;
-	padding: 16px 16px;
+	padding: 16px 10px;
 	text-decoration: none;
 	display: block;
+	font-family: Arial;
+	font-size: 12;
 	}
 	
 	/* Change background-color of dropdown links on hover */
@@ -112,33 +163,67 @@
 	.background-image{
 	display: block;
 	margin: 0 auto;
-	width: 100%;
+	max-width: none;
 	position: fixed;
 	top: 163px;
+	
 	}
 	
 	.transparent-div{
 	position: relative;
-	top: 300px;
+	top: 16px;
 	display: block;
-	margin: auto;
+	margin: auto;	
 	z-index: 1;
-	background: rgba(255,255,255,.65);
-	height:5000px;
+	background: rgba(1,1,1,.65);
+	height: 100%;
+	/*max-height: 740px;*/
+	margin-bottom: 40px;
+	padding-top: 10px;
 	width: 800px;
 	text-align: left;
+	
 	}
 	
 	h1{
-	font-family: Verdana;
-	padding: 10px;
+	font-family: Arial;
+	padding: 0;
+	margin: 0px 10px 0 10px;
+	color: whitesmoke;
+	text-align: center;
 	}
 	
 	.regular-font{
-	font-family: Verdana;
-	color: black;
-	font-size: 24px;
-	padding: 10px;
+	font-family: Arial;
+	color: whitesmoke;
+	font-size: 14px;
+	padding-left: 10px;
+	padding-right: 10px;
+	}
+	
+	.footer{
+	display: inline-block;
+	position: fixed;
+	width: 100%;
+	bottom: 0px;
+	height: 30px;
+	background-color: #343434;
+	z-index: 10;
+	text-align: center;
+	padding-bottom: 2px;
+	}
+	
+	.footer-text{
+	color: whitesmoke;
+	font-family: Arial;
+	font-size:12px;
+	margin-top: 10px;
+	}
+	
+	.content-picture{
+	padding-left: 8px;
+	display: inline-block;	
+	max-width: 784px;
 	}
 </style>
 </head>
@@ -158,7 +243,11 @@
 			</div>
 			<div id="main-navbar">
 				<div id="menu-div">
-				
+					
+					<div class="normal-link">
+						<a href="http://www.google.com" class="menu-link">Forside</a>	
+					</div>		
+					
 					<div class="dropdown-Link">
 						<a href="http://www.google.com" class="menu-link">Produkter</a>							
 						<div class="dropdown-content">
@@ -204,23 +293,38 @@
 						</div>
 					</div>
 					
-					<div class="normal-link">
-						<a href="http://www.google.com" class="menu-link">Forside</a>	
-					</div>					
+								
+			</div>
 			</div>
 		</header>
-	<div id="page-content">
-		<div class="background-container">
-			<img border="0" src="faerge1.jpg" class="background-image">
-		</div>
-		
-		<div class="transparent-div">	
-			<h1>Velkommen til KSM-Stoker</h1>
-			<p class="regular-font">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec tempus magna. Integer placerat mauris laoreet sagittis rhoncus. Pellentesque et risus at turpis porttitor tempus. Mauris tincidunt turpis velit, id commodo mi tempor ac. Cras volutpat tortor imperdiet, venenatis urna sed, rhoncus odio. Phasellus finibus fringilla vehicula. Pellentesque posuere purus eu justo malesuada, quis porta enim iaculis. Donec interdum eros ac odio malesuada placerat. Sed varius tempor ante a cursus. Aliquam auctor quam vitae tortor dignissim mollis. Vestibulum at euismod nunc. Nunc at pharetra augue. Cras cursus nibh id elit ornare, quis consequat erat congue. Curabitur metus ligula, mattis at dolor at, molestie lacinia est. Sed lacinia condimentum ultrices. Vestibulum feugiat blandit lobortis.</p>
+			
+		<div id="page-content">		
+			<!-- background source: https://www.pexels.com/photo/wood-explosion-fire-hot-8504/-->
+			<img  border="0" src="ild.jpg" class="background-image">
+			<div class="transparent-div">	
+				<h1>Velkommen til KSM-Stoker</h1>
+				
+				<p class="regular-font">At facilisis imperdiet vim, honestatis quaerendum sit ex. Nec an dicit homero maiorum, in pri quod fugit tincidunt. Duo option docendi id, quo essent nominavi consequat ei. An probatus sapientem reprimique vel, nam perpetua aliquando cotidieque at. Quidam virtute nostrum mei in, id quo melius scripserit adversarium, vide eleifend ne mei.</p>
+				<img class="content-picture" border="0" src="svejs.jpg" class="background-image">
+				<p class="regular-font">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec tempus magna. Integer placerat mauris laoreet sagittis rhoncus. Pellentesque et risus at turpis porttitor tempus. Mauris tincidunt turpis velit, id commodo mi tempor ac. Cras volutpat tortor imperdiet, venenatis urna sed, rhoncus odio. Phasellus finibus fringilla vehicula. Pellentesque posuere purus eu justo malesuada, quis porta enim iaculis. Donec interdum eros ac odio malesuada placerat. Sed varius tempor ante a cursus. Aliquam auctor quam vitae tortor dignissim mollis. Vestibulum at euismod nunc. Nunc at pharetra augue. Cras cursus nibh id elit ornare, quis consequat erat congue. Curabitur metus ligula, mattis at dolor at, molestie lacinia est. Sed lacinia condimentum ultrices. Vestibulum feugiat blandit lobortis.</p>
+				<p class="regular-font">Hinc tollit aliquam ex est, solet mucius no pri, et democritum deterruisset delicatissimi ius. Sed ut zril quaestio consectetuer. Sumo vituperata ius ut, eu habeo dicat regione vim, exerci salutandi intellegat ex ius. Ne malorum pertinacia vel, nec eius postulant assueverit et, sit tincidunt honestatis scriptorem eu.Ex mei regione intellegat. Sea amet probo vituperata no, pro ad commune adversarium. Ea meis volumus erroribus quo. Ea sea populo scripserit, nostro commodo delenit ad pro, veniam commune consequat eos ea. Doctus aliquip mentitum usu te, usu simul adversarium ex, qui solet laoreet id.</p>
+				<p class="regular-font">Ex mei regione intellegat. Sea amet probo vituperata no, pro ad commune adversarium. Ea meis volumus erroribus quo. Ea sea populo scripserit, nostro commodo delenit ad pro, veniam commune consequat eos ea. Doctus aliquip mentitum usu te, usu simul adversarium ex, qui solet laoreet id.</p>
+			</div>
+			
+			<div class="transparent-div">	
+				<h1>Tekstblok Eksempel</h1>
+				<p class="regular-font">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec tempus magna. Integer placerat mauris laoreet sagittis rhoncus. Pellentesque et risus at turpis porttitor tempus. Mauris tincidunt turpis velit, id commodo mi tempor ac. Cras volutpat tortor imperdiet, venenatis urna sed, rhoncus odio. Phasellus finibus fringilla vehicula. Pellentesque posuere purus eu justo malesuada, quis porta enim iaculis. Donec interdum eros ac odio malesuada placerat. Sed varius tempor ante a cursus. Aliquam auctor quam vitae tortor dignissim mollis. Vestibulum at euismod nunc. Nunc at pharetra augue. Cras cursus nibh id elit ornare, quis consequat erat congue. Curabitur metus ligula, mattis at dolor at, molestie lacinia est. Sed lacinia condimentum ultrices. Vestibulum feugiat blandit lobortis.</p>
+				<p class="regular-font">At facilisis imperdiet vim, honestatis quaerendum sit ex. Nec an dicit homero maiorum, in pri quod fugit tincidunt. Duo option docendi id, quo essent nominavi consequat ei. An probatus sapientem reprimique vel, nam perpetua aliquando cotidieque at. Quidam virtute nostrum mei in, id quo melius scripserit adversarium, vide eleifend ne mei.</p>
+				<p class="regular-font">Hinc tollit aliquam ex est, solet mucius no pri, et democritum deterruisset delicatissimi ius. Sed ut zril quaestio consectetuer. Sumo vituperata ius ut, eu habeo dicat regione vim, exerci salutandi intellegat ex ius. Ne malorum pertinacia vel, nec eius postulant assueverit et, sit tincidunt honestatis scriptorem eu.Ex mei regione intellegat. Sea amet probo vituperata no, pro ad commune adversarium. Ea meis volumus erroribus quo. Ea sea populo scripserit, nostro commodo delenit ad pro, veniam commune consequat eos ea. Doctus aliquip mentitum usu te, usu simul adversarium ex, qui solet laoreet id.</p>
+				<p class="regular-font">Ex mei regione intellegat. Sea amet probo vituperata no, pro ad commune adversarium. Ea meis volumus erroribus quo. Ea sea populo scripserit, nostro commodo delenit ad pro, veniam commune consequat eos ea. Doctus aliquip mentitum usu te, usu simul adversarium ex, qui solet laoreet id.</p>
+			</div>
+			
+		</div>	
+		<div class="footer">
+				<p class="footer-text">KSM-stoker • Næssundvej 440, 7960 Karby • E-mail: mail@ksm-stoker.dk • Tlf.: 97761072</p>
 		</div>
 	</div>
-	</div><!-- SiteMainLayoutTable -->
-
+	
 </body>
 </html>
 
