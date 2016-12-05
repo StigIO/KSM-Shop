@@ -1,0 +1,6 @@
+﻿CUSTOMERS
+ID;COMPANY;NAME;ADDRESS;ADDRESS_2;ZIP_CODE;CITY;CUST_STATE;COUNTRY_ID;PHONE;FAX;EMAIL;USERNAME;CREATED;COMMENTS;VAT_REG_NUM;BUY_LIMIT;DISCOUNT;FREE_SHIPPING;LAST_LOGIN;LOGIN_COUNT;IS_B2B_CUSTOMER;B2B_NOT_APPROVED;B2B_ID;TYPE_ID;CUST_GRP_ID;EAN;LANGUAGE_ID;FIELD_1;FIELD_2;FIELD_3;FIELD_4;FIELD_5
+"  51417960";"";"Jonas Futtrup Mogensen";"Næssundvej 469";"";"7960 ";" Karby";"";"2397";"51417960";"";"";"";"01-12-2016";"";"";"0,00";"";"False";"";"0";"False";"False";"10";"0";"1";"";"26";"";"";"";"";""
+"  97766600";"";"KP Stokerservice";"Kridtvej 25";"Vejerslev";"7980 ";"  Vils";"";"2397";"97 76 66 00";"";"info@stokerservice.dk, Kridtvej@gmail.com";"";"01-12-2016";"";"29570825";"0,00";"";"False";"";"0";"True";"False";"30";"1";"10";"";"26";"";"";"";"";""
+"  97767375";"";"Martin Riis Nielsen";"Gammelvold 3";"";"7980 ";"  Vils";"";"2397";"9776 7375";"";"Vangsborg@mail.dk";"";"01-12-2016";"";"";"0,00";"0,00";"False";"";"0";"False";"False";"10";"0";"1";"";"26";"";"";"";"";""
+"1";"";"Test Kunde";"Testvej 1";"";"8920";"Randers NV";"";"2397";"12345678";"";"kunde@webshop8.dk";"";"17-10-2016";"";"";"0,00";"";"False";"";"0";"False";"False";"0";"0";"";"";"";"";"";"";"";""
