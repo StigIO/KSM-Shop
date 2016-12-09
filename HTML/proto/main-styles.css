@@ -82,7 +82,7 @@
 	position: relative;
 	display: inline-block;
 	height: 60px;	
-	text-align: center;
+
 	}	
 	
 	.normal-link{
@@ -105,6 +105,15 @@
 	font-family: Arial;
 	font-size: 12;
 	}	
+	
+	.dropdown-sub1{
+		display: block;
+		position: absolute;
+		top: 100%;
+		left: 0;		
+	}
+	
+	
 	
 	.menu-link:hover{
 	background-color: #2e2e2e;
@@ -130,6 +139,7 @@
 	font-family: Arial;
 	font-size: 12;
 	}
+	
 	
 	/* Change background-color of dropdown links on hover */
 	.dropdown-content a:hover {
@@ -171,9 +181,11 @@
 	background: rgba(36,36,36,.70);
 	height: 100%;	
 	margin-bottom: 40px;
-	padding-top: 10px;
+	
 	width: 800px;
+	max width: 800px;
 	text-align: left;	
+	align-items: center;
 	border-radius: 5px 5px 5px 5px;
 	}
 	
@@ -212,9 +224,27 @@
 	margin-top: 10px;
 	}
 	
+	
+	.picture-frame{
+	width: 100%;
+	text-align: center;
+	}
+	
 	.content-picture{
-	margin-left: 10px;
+	margin: auto;
 	display: inline-block;	
 	max-width: 780px;
 	border-radius:  5px;
 	}
+	
+	#payment-div{
+	position: relative;	
+	text-align: center;
+	}
+	
+	#epay_paymentinfo ul li p, #epay_paymentinfo_full ul li p{
+	color: white;
+	
+	}
+	
+	

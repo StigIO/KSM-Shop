@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>KSM-Stoker</title>
+	<link rel="stylesheet" type="text/css" href="main-styles.css">	
+	
+</head>
+
+<body class="Website-frontpage">
+	<div id = "SiteMainLayoutTable">
+		<header id="Webshop-spacetop" class="page-header">
+			<div id="logo-row">
+				<div class="row">
+					<div id="logobox" class="column small-5 logo">
+						<a href="Main.html">
+						<img border="0" class="WebShopSkinLogo" src="215285Logo2012 jpg.jpg">
+						</a>
+					</div>
+				
+				</div>
+			</div>
+			<div id="main-navbar">
+				<div id="menu-div">
+					
+					<div class="normal-link">
+						<a href="Main.html" class="menu-link">Forside</a>	
+					</div>		
+					
+					<div class="dropdown-Link">
+						<a href="#" class="menu-link">Produkter</a>							
+						<div class="dropdown-content">
+							<a href="#">12 - 95kW</a>
+							<a href="#">145 - 360kW</a>
+							<a href="#">500 - 990kW</a>		
+							<a href="#">Ekstraudstyr</a>	
+							<a href="#">Tilbehør</a>	
+							<a href="#">Containerløsninger</a>	
+							<a href="#">Totalløsninger</a>									
+						</div>
+					</div>
+					
+					<div class="dropdown-Link">
+						<a href="#" class="menu-link">Kontakt</a>
+						<!-- kontakt har ikke brug for underpunkter
+						<div class="dropdown-content">
+							<a href="#">link1</a>
+							<a href="#">link2</a>
+							<a href="#">link3</a>						
+						</div>
+						-->
+					</div>
+					
+					<div class="dropdown-Link">
+						<a href="#" class="menu-link">Firmaprofil</a>							
+						<div class="dropdown-content">
+							<a href="#">Om KSM-Stoker A/S</a>
+							<a href="#">Nyhedsoversigt</a>
+							<a href="#">Presse</a>	
+							<a href="#">Forhandlere</a>								
+						</div>
+					</div>
+					
+					<div class="dropdown-Link">
+						<a href="#" class="menu-link">Download</a>							
+						<div class="dropdown-content">
+							<a href="#">Brugervejledninger</a>
+							<a href="#">Prøvningsrapporter</a>
+							<a href="#">Fjelfindingsskemaer</a>
+							<a href="#">Rørdiagrammer</a>
+							<a href="#">Målskitser</a>								
+						</div>
+					</div>
+					
+					<div class="dropdown-Link">
+						<a href="#" class="menu-link">Service</a>	
+						<!-- Ingen brug for dropdown. Skal bare linke til en side med et eksternt link til stokerservice.dk
+						<div class="dropdown-content">
+							<a href="#">link1</a>
+							<a href="#">link2</a>
+							<a href="#">link3</a>						
+						</div>
+						-->
+					</div>
+					
+								
+			</div>
+			</div>
+		</header>
+			
+		<div id="page-content">		
+			
+<img  border="0" src="ild.jpg" class="background-image">
+			<div id="tester" class="transparent-div">	
+				<h1 style="color: black">Betaling</h1>
+				<p class="regular-font" style="color: black">Ex mei regione intellegat. Sea amet probo vituperata no, pro ad commune adversarium. Ea meis volumus erroribus quo. Ea sea populo scripserit, nostro commodo delenit ad pro, veniam commune consequat eos ea. Doctus aliquip mentitum usu te, usu simul adversarium ex, qui solet laoreet id.</p>
+				<script charset="UTF-8" src="https://ssl.ditonlinebetalingssystem.dk/integration/ewindow/paymentwindow.js" type="text/javascript"></script>
+					<div id="payment-div" ></div>
+					<script type="text/javascript">
+						paymentwindow = new PaymentWindow({
+						'merchantnumber': "99999999",
+						'amount': "1",
+						'currency': "DKK",
+						'windowstate': "4",
+						'paymentcollection': "1",
+						'iframeheight': "400",
+						'iframewidth': "360",
+						'accepturl': "http://www.epay.dk"
+						});
+						paymentwindow.append('payment-div');
+						paymentwindow.open();
+				</script>
+				
+			
+				
+				<script>									
+					document.getElementById("tester").style.backgroundColor = "white";					
+				</script>
+				
+				
+			</div>
+		</div>	
+		<div class="footer">
+				<p class="footer-text">KSM-stoker • Næssundvej 440, 7960 Karby • E-mail: mail@ksm-stoker.dk • Tlf.: 97761072</p>
+		</div>
+	</div>
+	
+</body>
+</html>
