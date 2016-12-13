@@ -125,8 +125,7 @@
 	display: none;
 	position: absolute;
 	top: 60px;	
-	background-color: #363636;
-		
+	background-color: #363636;		
 	z-index: 10;
 	min-width: 120px;
 	}
@@ -158,11 +157,11 @@
     background-color: #2e2e2e;
 	}
 	
-	.background-container{
+	/*.background-container{
 	text-align: center;
 	min-width: 800px;
 	position: relative;	
-	}
+	}*/
 	
 	.background-image{
 	display: block;
@@ -181,8 +180,7 @@
 	z-index: 1;
 	background: rgba(36,36,36,.70);
 	height: 100%;	
-	margin-bottom: 40px;
-	
+	margin-bottom: 40px;	
 	width: 800px;
 	max width: 800px;
 	text-align: left;	
@@ -244,8 +242,7 @@
 	}
 	
 	#epay_paymentinfo ul li p, #epay_paymentinfo_full ul li p{
-	color: white;
-	
+	color: white;	
 	}
 	
 	
