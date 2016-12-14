@@ -1,6 +1,5 @@
 #SiteMainLayoutTable{
 	position: relative;		
-	width: 100%
 	}
 	
 	.WebShopSkinLogo{
@@ -45,119 +44,119 @@
 	left: 4rem; 
 	padding-left: 0.89286rem; 
 	padding-right: 0.89286rem; 
-	width:  160px; 
+	width: 41.66667%; 
 	max-width:800px;
 	}
 	
 	#main-navbar{
-	height: 60px;
-	
+	height: 60px; 
 	background-color: #363636; 
 	position: relative; 
 	text-align:center; 
 	align-items: center;
 	}
-
-
-
-#primary_nav_wrap
-{
-	//margin-top:15px;
-	min-height: 60px;
-	max-width: 498px;
-	margin: auto;
-	z-index: 100;
-	max-height:120px;
-}
-
-#primary_nav_wrap ul
-{
-	list-style:none;
-	position:relative;
-	float:left;
-	margin:0;
-	padding:0;
-	height: 60px;
 	
-}
-
-#primary_nav_wrap ul a
-{
-	display: block;	
-	color: whitesmoke;
-	text-decoration: none;
-	//font-weight: 700;
-	font-size: 16px;
-	//line-height: 32px;
-	padding: 21px 10px;
-	font-family: Arial;
-	//height: 60px;
-}
-
-#primary_nav_wrap ul li
-{
-	position:relative;
-	float:left;
-	margin:0;
-	padding:0;
-	background-color: #363636;
-}
-
-#primary_nav_wrap ul li.current-menu-item
-{
-	background:#2e2e2e;
-}
-
-#primary_nav_wrap ul li:hover
-{
-	background: #2e2e2e;
-}
-
-#primary_nav_wrap ul ul
-{
-	display:none;
-	position:absolute;
-	top:100%;
-	left:0;
-	background:#fff;
-	padding:0;
-}
-
-#primary_nav_wrap ul ul li
-{
-	float: none;
-	width: 160px;
-}
-
-#primary_nav_wrap ul ul a
-{
-	line-height:120%;
-	padding:10px 10px;
-}
-
-#primary_nav_wrap ul ul ul
-{
-	top:0;
-	left:100%;
-}
-
-#primary_nav_wrap ul li:hover > ul
-{
-	display:block;
-}
-
 	#page-content{
 	position: relative; 
 	top: 163px; 
 	min-height:100%; 
 	background-color: #ffffff; 
-	//height: 100%; 
-	padding-bottom: 50px;	
-	text-align: center;
+	height: 100%; 
+	padding-bottom: 50px;
 	
 	}
+	
+	#menu-div{	
+	max-width:900px;
+	width: 498px;
+	background-color: #363636; 
+	height:inherit; 
+	margin: 0 auto;		
+	border: none;
+	}
 
+	.dropdown-Link{
+	text-align: center;
+	border:none;
+	float: left;
+	position: relative;
+	display: inline-block;
+	height: 60px;	
 
+	}	
+	
+	.normal-link{
+	text-align: center;
+	border:none;
+	float: left;
+	position: relative;
+	display: inline-block;
+	height: 60px;	
+	text-align: center;
+	}	
+	
+	.menu-link{	
+	float: left;
+	background-color: #363636;
+	color: whitesmoke;
+	padding: 21px 10px; 21px; 10px;	/* total width 120px*/
+	text-decoration: none;
+	display: block;			
+	font-family: Arial;
+	font-size: 12;
+	}	
+	
+	.dropdown-sub1{
+		display: block;
+		position: absolute;
+		top: 100%;
+		left: 0;		
+		width: 100%; 
+	}
+	
+	
+	
+	.menu-link:hover{
+	background-color: #2e2e2e;
+	}	
+	
+	/*	dropdown Content (hidden by default)	*/	
+	.dropdown-content{
+	display: none;
+	position: absolute;
+	top: 60px;	
+	background-color: #363636;		
+	z-index: 10;
+	min-width: 120px;
+	}
+	
+	.dropdown-content a{
+	text-align:left;
+	color: whitesmoke;
+	padding: 16px 10px;
+	text-decoration: none;
+	display: block;
+	font-family: Arial;
+	font-size: 12;
+	}
+	
+	
+	/* Change background-color of dropdown links on hover */
+	.dropdown-content a:hover {
+	background-color: #2e2e2e;
+	}
+	
+		
+	/* Show the dropdown menu on hover */
+	.dropdown-Link:hover .dropdown-content {
+    display: block;
+	}
+	
+	/* Change the background color of the dropdown button when the dropdown content is shown */
+	.dropdown-Link:hover .menu-link {
+    background-color: #2e2e2e;
+	}
+	
 	/*.background-container{
 	text-align: center;
 	min-width: 800px;
@@ -167,35 +166,31 @@
 	.background-image{
 	display: block;
 	margin: 0 auto;
-	width: 1680px;
-	max-height: none;
+	max-width: none;
 	position: fixed;
-	top: 163px;	
+	top: 163px;
+	
 	}
 	
 	.transparent-div{
 	position: relative;
 	top: 16px;
 	display: block;
-	overflow: auto;
 	margin: auto;	
 	z-index: 1;
 	background: rgba(36,36,36,.70);
-	//height: 100%;	
-	margin-bottom: 30px;
-	padding-bottom: 10px;
-	max-width:800px;
-	width: 100%;
+	height: 100%;	
+	margin-bottom: 40px;	
+	width: 800px;
 	max width: 800px;
 	text-align: left;	
 	align-items: center;
-	border-radius: 5px 5px 5px 5px;	
+	border-radius: 5px 5px 5px 5px;
 	}
 	
-	.overskrift{
+	h1{
 	font-family: Arial;
 	padding: 0;
-	padding-top: 10px;
 	margin: 0px 10px 0 10px;
 	color: whitesmoke;
 	text-align: center;
@@ -207,11 +202,10 @@
 	font-size: 14px;
 	padding-left: 10px;
 	padding-right: 10px;
-	line-height: 120%;
 	}
 	
 	.footer{
-	display: block;
+	display: inline-block;
 	position: fixed;
 	width: 100%;
 	bottom: 0px;
@@ -237,7 +231,7 @@
 	
 	.content-picture{
 	margin: auto;
-	display: block;	
+	display: inline-block;	
 	max-width: 780px;
 	border-radius:  5px;
 	}
@@ -250,4 +244,5 @@
 	#epay_paymentinfo ul li p, #epay_paymentinfo_full ul li p{
 	color: white;	
 	}
-
+	
+	
