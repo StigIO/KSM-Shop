@@ -30,7 +30,8 @@ button.accordion {
 
 }
 .prodBeskrivelse-font{
-	margin-top:79px;
+	margin-top:14px;
+	margin-right: 14px;
 	max-width: 600px;
 	font-family: Arial;
 	color: whitesmoke;
@@ -42,7 +43,7 @@ button.accordion {
 	}
 	
 
-button.prodLinie-link{
+/*button.prodLinie-link{
 	background-color: rgba(36,36,36,.70);
     color: whitesmoke;
     cursor: pointer;
@@ -58,6 +59,29 @@ button.prodLinie-link{
 	float: right;	
 	margin-right: 14px;
 	border-radius: 5px;
+}*/
+
+.produkt-detaljer-link{	
+	background-color: rgba(62,62,62,.99);
+    color: whitesmoke;
+    cursor: pointer;
+    padding: 18px;  
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+	text-align: center;
+	font-family: Arial;
+	font-size: 16px;	
+	float: right;	
+	margin: 14px;
+	//margin-right: 14px;
+	//margin-bottom: 14px;
+	border-radius: 5px;
+	text-decoration: none;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
@@ -65,11 +89,21 @@ button.accordion.active, button.accordion:hover {
     background-color: #2e2e2e;
 }
 
+button.accordion.active{
+border-radius: 0px 0px 5px 5px;
+}
+
+.produkt-detaljer-link:hover{
+	background-color: #2e2e2e;
+}
+
 /* Style the accordion panel. Note: hidden by default */
 div.panel {
-	margin-bottom: 10px;
+	margin-bottom: 0px;
     padding: 0;    
     display: none;
+	position: relative;
+	width: 100%;
 }
 
 /* The "show" class is added to the accordion panel when the user clicks on one of the buttons. This will show the panel content */
@@ -83,7 +117,7 @@ button.accordion:after {
     font-size: 13px;
     color: #777;
     float: right;
-    margin-left: 5px;
+    margin-left: -23px;
 }
 
 button.accordion.active:after {
