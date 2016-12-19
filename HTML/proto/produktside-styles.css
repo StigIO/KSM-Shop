@@ -1,17 +1,16 @@
 
 .produkt-side-panel{	
-	float: right;
-	position: relative;
-	top: -329px;
-	left: -15%;
-	display: block;
-	overflow: auto;
+	float: left;
+//	position: relative;
+//	top: -329px;
+//	left: -15%;
+	display: inline-block;
+	overflow: hidden;
 	margin: auto;	
 	z-index: 1;
 	background: rgba(36,36,36,.70);
 	height: 260px;	
-	margin-bottom: 30px;
-	padding-bottom: 10px;
+	vertical-align: top;
 	width: 160px;
 	max width: 800px;
 	text-align: left;	
@@ -20,9 +19,27 @@
 }
 
 .sidepanel-link{
+display: block;
+float: left;
+margin: auto;
 color: whitesmoke;
 text-decoration: none;
 font-family: Arial;
 padding:5px;
 overflow: none;
 }
+
+	.product-page-font{
+	margin: auto;
+	padding: 5px;
+	display: inline-block;
+	float: left;
+	max-width: 400px;
+	min-width: 200px;
+	font-family: Arial;
+	color: whitesmoke;
+	font-size: 14px;
+
+	
+	line-height: 120%;
+	}

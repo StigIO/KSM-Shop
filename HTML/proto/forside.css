@@ -148,10 +148,11 @@
 
 	#page-content{
 	position: relative; 
+	padding-top:16px;
 	top: 163px; 
 	min-height:100%; 
 	background-color: #ffffff; 
-	//height: 100%; 
+
 	padding-bottom: 50px;	
 	text-align: center;
 	
@@ -174,15 +175,13 @@
 	}
 	
 	.transparent-div{
-	position: relative;
-	top: 16px;
+	position: relative;	
 	display: block;
 	overflow: hidden;
 	margin: auto;	
 	z-index: 1;
-	background: rgba(36,36,36,.70);
-	//height: 100%;	
-	margin-bottom: 30px;
+	background: rgba(36,36,36,.70);	
+	margin-bottom: 16px;
 	padding-bottom: 10px;
 	max-width:800px;
 	min-width: 400px;
@@ -233,7 +232,7 @@
 	.picture-frame{
 	width: 100%;
 	text-align: center;
-	}file:///C:/Users/Stig/Documents/GitHub/KSM-Shop/HTML/proto/ild.jpg
+	}
 	
 	.content-picture{
 	margin: auto;
