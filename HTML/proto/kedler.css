@@ -23,7 +23,7 @@ button.accordion {
 
 .modelBillede{
 	position: relative;
-	margin: 14px;
+	margin-left: 1.5%;
 	display: block;	
 	max-width: 780px;
 	border-radius:  5px;
@@ -42,24 +42,7 @@ button.accordion {
 	display: inline-block
 	}
 	
-
-/*button.prodLinie-link{
-	background-color: rgba(36,36,36,.70);
-    color: whitesmoke;
-    cursor: pointer;
-    padding: 18px;
-    //width: 100%;
-    text-align: left;
-    border: none;
-    outline: none;
-    transition: 0.4s;
-	text-align: center;
-	font-family: Arial;
-	font-size: 16px;	
-	float: right;	
-	margin-right: 14px;
-	border-radius: 5px;
-}*/
+	
 
 .produkt-detaljer-link{	
 	background-color: rgba(62,62,62,.99);

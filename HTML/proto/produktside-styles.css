@@ -1,30 +1,44 @@
 
 .produkt-side-panel{
-	
-	
 	float: right;
-	position: relative;
-	top: -329px;
-	left: -15%;
+	position: absolute;
+	top: 0px;	
+	right: 14px;
 	display: block;
 	overflow: auto;
 	margin: auto;	
 	z-index: 1;
 	background: rgba(36,36,36,.70);
-	height: 260px;	
-	margin-bottom: 30px;
-	padding-bottom: 10px;
+	max-height: 200px;	
+	//height: 100%;	
+	margin-top: 61px;
+	//Margin-bottom: 30px;
+	//padding-bottom: 10px;
 	width: 160px;
 	max width: 800px;
-	text-align: left;	
+	//text-align: left;	
 	align-items: center;
 	border-radius: 5px 5px 5px 5px;	
+	text-align: center;
 }
 
 .sidepanel-link{
 color: whitesmoke;
 text-decoration: none;
 font-family: Arial;
-padding:5px;
-overflow: none;
+padding: 8px;
+float: left;
+background-color: rgba(36,36,36,.20);
+}
+
+.sidepanel-link:hover{
+
+background-color: rgba(ff,ff,ff,.99);
+
+}
+
+.detaijeret-beskrivelse-tekstbox{
+float: left;
+max-width: 600px;
+
 }
