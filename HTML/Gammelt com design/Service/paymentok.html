@@ -1,0 +1,112 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Eksempel på opsætning af formular - Kvittering</title>
+	<meta charset="iso-8859-1">
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+	<meta http-equiv="cache-control" content="no-cache">
+	<meta http-equiv="pragma" content="no-cache">
+	<style type="text/css">
+	    
+	    BODY {margin: 10px; padding: 0px; border: 0px; font-family: Arial, Verdana, Helvetica, sans-serif; color: #000000; font-size: 13px; line-height: 18px;}
+	    TD {font-family: Arial, Verdana, Helvetica, sans-serif; color: #000000; font-size: 13px;}
+	    A {color: #49A140; font-size: 13px; text-decoration: underline;}
+	    FORM {margin: 0px; padding: 0px; border: 0px;}
+	    INPUT {font-family: Arial, Verdana, Helvetica, sans-serif; color: #000000; font-size: 13px; height: 22px;}
+        SELECT{}
+        TEXTAREA {overflow: auto; font-family: Arial, Verdana, Helvetica, sans-serif; color: #000000; font-size: 13px;}
+	
+	</style>
+	<script type="text/javascript">
+		
+		function init()
+        {
+            var sParams = window.location.search;
+            sParams = sParams.substring(1, sParams.length);
+            var arrParams = sParams.split("&");
+            var arrData;
+            var iAmount;
+            var sTID;
+            var sOrder;
+            var iAmount = 0;
+            var iFee = 0;
+            var sCurrency = "N/A";
+            
+            for(n = 0; n < arrParams.length; n++)
+            {
+                arrData = arrParams[n].split("=");    
+                
+                if(arrData[0] == "txnid")
+                    document.getElementById("tid").innerHTML = arrData[1];
+                else if(arrData[0] == "orderid")
+                    document.getElementById("orderid").innerHTML = arrData[1];
+                else if (arrData[0] == "cardno")
+                    document.getElementById("cardno").innerHTML = arrData[1];                    
+                else if(arrData[0] == "amount")
+                    iAmount = parseInt(arrData[1]);
+                else if(arrData[0] == "txnfee")
+                    iFee = parseInt(arrData[1]);
+                else if (arrData[0] == "currency")
+                    sCurrency = arrData[1];                                                                                                
+            }
+
+            if (sCurrency == "208")
+                sCurrency = "DKK";
+            else if (sCurrency == "578")
+                sCurrency = "NOK";
+            else if (sCurrency == "752")
+                sCurrency = "SEK";
+            else if (sCurrency == "826")
+                sCurrency = "GBP";
+            else if (sCurrency == "840")
+                sCurrency = "USD";
+            else if (sCurrency == "978")
+                sCurrency = "EUR";
+
+
+            document.getElementById("amount").innerHTML = "<b>" + sCurrency + " " + ((iAmount + iFee) / 100) + "</b>";
+            document.getElementById("fee").innerHTML = sCurrency + " " + ((iFee) / 100);
+        }
+	    
+    </script>
+</head>
+<body onload="init()">
+<div style="font-weight: bold; font-size: 16px; padding-bottom: 15px;">Din betaling er gennemført (kvittering)</div>
+<table>
+    <tr>
+        <td style="background-color: #EEEEEE;">TransaktionsID:</td>
+        <td style="background-color: #EEEEEE; width: 225px;" id="tid"></td>
+    </tr>
+    <tr>
+        <td style="background-color: #EEEEEE;">Fakturanummer:</td>
+        <td style="background-color: #EEEEEE;" id="orderid"></td>
+    </tr>
+    <tr>
+        <td style="background-color: #EEEEEE;">Beløb i alt:</td>
+        <td style="background-color: #EEEEEE;" id="amount"></td>
+    </tr>
+    <tr>
+        <td style="background-color: #EEEEEE;">Transaktionsgebyret udgør:</td>
+        <td style="background-color: #EEEEEE;" id="fee"></td>
+    </tr>
+    <tr>
+        <td style="background-color: #EEEEEE;">Kortnummer:</td>
+        <td style="background-color: #EEEEEE;" id="cardno"></td>
+    </tr>
+    <tr>
+        <td colspan="2" style="padding-top: 30px;">
+            <table>
+                <tr>
+                    <td style="vertical-align: top; padding-right: 20px;"><a href="http://www.epay.dk" target="_blank"><img src="epay-payment-solutions.gif" width="75" height="44" style="border: 0px;" alt="ePay / Payment Solutions"></a></td>
+                    <td style="vertical-align: top; font-size: 11px; padding-top: 2px;">
+                        <b>SIKKER BETALING</b>
+                        <br>
+                        <span class="notranslate">ePay / Payment Solutions</span> er PCI certificeret af VISA / Mastercard,<br>og al kommunikation foregør krypteret via en sikker forbindelse.  
+                    </td>  
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>

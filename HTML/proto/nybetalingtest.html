@@ -1,0 +1,293 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>KSM-Stoker</title>
+	<meta charset="utf-8">
+
+	<link rel="stylesheet" type="text/css" href="forside.css">	
+	
+	<script type="text/javascript" src="https://ssl.ditonlinebetalingssystem.dk/integration/ewindow/paymentwindow.js"></script>
+						<script type="text/javascript">
+
+							var iMinorUnit = 0;
+							var iDigits = 0;
+								
+							function startPayment(iType)
+							{
+								var objForm = document.getElementById("ePay");
+								var objAmount = objForm.useramount;
+
+								if (objForm.merchantnumber.value.length < 7) {
+									alert("Du mangler at indtaste dit merchant!");
+									return false;
+								}
+								
+								if (objForm.orderid.value.length < 1)
+								{
+									alert("Du mangler at angive dit fakturanummer eller referencen til din betaling!");
+									objForm.orderid.focus();
+									return false;
+								}
+
+								if (objAmount.value.length < 1 || objAmount.value == "") {
+									alert("Indtast venligst beløbet.");
+									objAmount.focus();
+									return false;
+								}
+								else if (objAmount.value.indexOf(".") > -1) {
+									alert("Beløbet må ikke indeholde tegnet '.' (punktum).\n\nDecimaler skal angives med ','. F.eks. 199,95");
+									objAmount.focus();
+									return false;
+								}
+
+								var amount = trimString(objAmount.value);
+
+								if (iMinorUnit == "-1") {
+									alert("Du har indtastet et ugyldigt beløb!\n\nBeløbet kan kun indeholde tal.");
+									objAmount.focus();
+									return false;
+								}
+								else if (iDigits > 2) {
+									alert("Du har indtastet et ugyldigt beløb!\n\nBeløbet skal angives med 2 decimaler (du har angivet " + iDigits + " decimaler).");
+									objAmount.focus();
+									return false;
+								}
+								else if (iDigits == "1")
+									amount = parseInt(amount) * 10;
+								else if (iMinorUnit == "0")
+									amount = parseInt(amount) * 100;
+
+
+								var descr = "Kundens navn: " + objForm.customername.value + "<br>Evt. kommentar: " + objForm.customercomment.value;
+								
+								paymentwindow = new PaymentWindow({
+
+									'windowstate': String(iType),
+
+									'paymentcollection': 1,
+
+									'language': 0,
+
+									'merchantnumber': objForm.merchantnumber.value,
+
+									'windowid': 1,
+
+									'orderid': objForm.orderid.value,
+
+									'amount': amount,
+
+									'currency': "208",
+
+									'description': descr,
+									
+									'encoding': "ISO-8859-1",
+
+									'ordertext': "Online betaling af faktura"
+
+									//'accepturl': objForm.accepturl.value,
+
+									//'cancelurl': objForm.cancelurl.value
+
+								});
+
+								paymentwindow.open();
+							}
+
+							function trimString(str) {
+								iMinorUnit = 0;
+								iDigits = 0;
+								var tmp = String(str);
+								var returnVal = "";
+								var cVal = "";
+
+								if (tmp != "") {
+									for (var i = 0; i < tmp.length; i++) {
+										cVal = tmp.substr(i, 1);
+
+										if (!isNaN(cVal)) {
+											returnVal = returnVal + cVal;
+
+											if (iMinorUnit == "1")
+												iDigits++;
+										}
+										else {
+											if (cVal != ",") {
+												iMinorUnit = -1;
+												break;
+											}
+											else
+												iMinorUnit = 1;
+										}
+									}
+								}
+
+								return returnVal;
+							}
+							
+							function init()
+							{
+								var sURL = String(window.location);
+								var arrURL = sURL.split("/");
+								var sAcceptURL = "";
+								var objForm = document.getElementById("ePay");
+								var n;
+								
+								for(n = 0; n < arrURL.length - 1; n++)
+									sAcceptURL += arrURL[n] + "/";
+
+								objForm.cancelurl.value = sURL;
+								objForm.accepturl.value = sAcceptURL + "paymentok.htm";
+							}
+							
+							
+						</script>
+	
+</head>
+
+<body onload="init()">
+
+
+	<div id = "SiteMainLayoutTable">
+		<header id="Webshop-spacetop" class="page-header">
+			<div id="logo-row">
+				<div class="row">
+					<div id="logobox" class="column small-5 logo">
+						<a href="Forside.html">
+						<img border="0" class="WebShopSkinLogo" src="215285Logo2012 jpg.jpg">
+						</a>
+					</div>
+				
+				</div>
+			</div>
+
+			<div id="main-navbar">
+						
+				<nav id="primary_nav_wrap">
+				<ul>
+				  <li class="current-menu-item"><a href="Forside.html">Forside</a></li>
+				  <li><a href="#">Produkter</a>
+					<ul>
+					  <li><a href="kedler.html">Kedler</a></li>
+					  <li><a href="#">Tilbehør</a></li>
+					  <li><a href="#">Containerløsninger</a></li>
+					  <li><a href="#">Totalløsninger</a>
+						<ul>
+						  <li><a href="#">Deep Menu 1</a>
+							<ul>
+							  <li><a href="#">Sub Deep 1</a></li>
+							  <li><a href="#">Sub Deep 2</a></li>
+							  <li><a href="#">Sub Deep 3</a></li>
+								<li><a href="#">Sub Deep 4</a></li>
+							</ul>
+						  </li>
+						  <li><a href="#">Deep Menu 2</a></li>
+						</ul>
+					  </li>
+					  <li><a href="#">Halmopriver</a></li>
+					</ul>
+				  </li>
+				  <li><a href="#">Kontakt</a>
+					<ul>
+					  <li><a href="#">Sub Menu 1</a></li>
+					  <li><a href="#">Sub Menu 2</a></li>
+					  <li><a href="#">Sub Menu 3</a></li>
+					</ul>
+				  </li>
+				  <li><a href="#">Firmaprofil</a>
+					<ul>
+					  <li class="dir"><a href="#">Sub Menu 1</a></li>
+					  <li class="dir"><a href="#">Sub Menu 2 THIS IS SO LONG IT MIGHT CAUSE AN ISSEUE BUT MAYBE NOT?</a>
+						<ul>
+						  <li><a href="#">Category 1</a></li>
+						  <li><a href="#">Category 2</a></li>
+						  <li><a href="#">Category 3</a></li>
+						  <li><a href="#">Category 4</a></li>
+						  <li><a href="#">Category 5</a></li>
+						</ul>
+					  </li>
+					  <li><a href="#">Sub Menu 3</a></li>
+					  <li><a href="#">Sub Menu 4</a></li>
+					  <li><a href="#">Sub Menu 5</a></li>
+					</ul>
+				  </li>
+				  <li><a href="#">Download</a></li>
+				  
+				 <li><a href="#">Service</a></li>
+				 <!--  <li><a href="#">Menu 6</a></li>
+				  <li><a href="#">Contact Us</a></li> -->
+				</ul>
+			</nav>
+			</div>
+		</header>
+
+
+		<div id="page-content">						
+			<img  border="0" src="ild.jpg" class="background-image">
+			<div class="transparent-div">	
+				<h1 class="overskrift">Betaling</h1>
+				
+				<h2 style="padding-left: 10px; margin-bottom: 10px; color: whitesmoke;">MobilePay</h2>
+ 
+				<p class="regular-font"style="padding-left: 10px;">Du kan nu også betale med MobilPay Tlf. nr. 40185536.</p>
+
+				
+				<p class="regular-font">Ex mei regione intellegat. Sea amet probo vituperata no, pro ad commune adversarium. Ea meis volumus erroribus quo. Ea sea populo scripserit, nostro commodo delenit ad pro, veniam commune consequat eos ea. Doctus aliquip mentitum usu te, usu simul adversarium ex, qui solet laoreet id.</p>
+			</div>
+			<div class="transparent-div">	
+				<h1 class="overskrift">Onlinebetaling</h1>
+	
+					
+				<form id="ePay" style="margin-top: 16px">        
+						<table style="margin: auto;">
+						<tr>
+							<td style="width: 100px; background-color: #EEEEEE;"><b>Fakturanummer:</b></td>
+							<td style="width: 250px; background-color: #EEEEEE;"><input type="text" name="orderid" maxlength="20" style="width: 200px;"></td>
+							<td style="width: 250px; background-color: #EEEEEE;">Referencen til betalingen</td>
+						</tr>
+						<tr>
+							<td style="background-color: #EEEEEE;"><b>Beløb:</b></td>
+							<td style="background-color: #EEEEEE;"><input type="text" name="useramount" style="width: 200px;"></td>
+							<td style="background-color: #EEEEEE;">Beløb angivet i DKK</td>
+						</tr>
+						<tr>
+							<td style="background-color: #EEEEEE;">Navn:</td>
+							<td style="background-color: #EEEEEE;"><input type="text" name="customername" style="width: 200px;" maxlength="50"></td>
+							<td style="background-color: #EEEEEE;">Kundens navn</td>
+						</tr>
+						<tr>
+							<td style="background-color: #EEEEEE;">Evt. kommentar:</td>
+							<td style="background-color: #EEEEEE;"><textarea name="customercomment" style="width: 200; height: 50px;"></textarea></td>
+							<td style="background-color: #EEEEEE;">Evt. kommentar fra kunden</td>
+						</tr>
+						<tr>
+							<td colspan="3" style="text-align: center; padding-top: 10px;">
+								<input type="button" value="Gå til betaling" onclick="startPayment(1)" style="width: 180px;">&nbsp;&nbsp;&nbsp;</td>
+						</tr>
+						<tr>
+							<td colspan="3" style="padding-top: 30px;">
+								<table>
+									<tr>
+										<td style="vertical-align: top; padding-right: 20px;"><a href="http://www.epay.dk" target="_blank"><img src="epay-payment-solutions.gif" width="75" height="44" style="border: 0px;" alt="ePay / Payment Solutions"></a></td>
+										<td style="vertical-align: top; font-size: 11px; padding-top: 2px;">
+											<b>SIKKER BETALING</b>
+											<br>
+											<span class="notranslate">ePay / Payment Solutions</span> er PCI certificeret af VISA / Mastercard,<br>og al kommunikation foregår krypteret via en sikker forbindelse.  
+										</td>  
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+					<input type="hidden" name="merchantnumber" value="1019865">
+					<input type="hidden" name="accepturl" value="">
+					<input type="hidden" name="cancelurl" value="">
+				</form>				
+			</div>			
+		</div>
+	
+		<div class="footer">
+				<p class="footer-text">KSM-stoker &#8226 Næssundvej 440, 7960 Karby &#8226 E-mail: mail@ksm-stoker.dk &#8226 Tlf.: 97761072</p>
+		</div>
+</div>
+</body>
+</html>
