@@ -1,19 +1,18 @@
 
-.produkt-side-panel{
-	float: right;
-	position: absolute;
-	top: 0px;	
-	right: 14px;
-	display: block;
-	overflow: auto;
+
+.produkt-side-panel{	
+	float: left;
+//	position: relative;
+//	top: -329px;
+//	left: -15%;
+	display: inline-block;
+	overflow: hidden;
 	margin: auto;	
 	z-index: 1;
 	background: rgba(36,36,36,.70);
-	max-height: 200px;	
-	//height: 100%;	
-	margin-top: 61px;
-	//Margin-bottom: 30px;
-	//padding-bottom: 10px;
+	height: 260px;	
+	vertical-align: top;
+
 	width: 160px;
 	max width: 800px;
 	//text-align: left;	
@@ -23,22 +22,28 @@
 }
 
 .sidepanel-link{
+display: block;
+float: left;
+margin: auto;
 color: whitesmoke;
 text-decoration: none;
 font-family: Arial;
-padding: 8px;
-float: left;
-background-color: rgba(36,36,36,.20);
+
+padding:5px;
+overflow: none;
 }
 
-.sidepanel-link:hover{
+	.product-page-font{
+	margin: auto;
+	padding: 5px;
+	display: inline-block;
+	float: left;
+	max-width: 400px;
+	min-width: 200px;
+	font-family: Arial;
+	color: whitesmoke;
+	font-size: 14px;
 
-background-color: rgba(ff,ff,ff,.99);
-
-}
-
-.detaijeret-beskrivelse-tekstbox{
-float: left;
-max-width: 600px;
-
-}
+	
+	line-height: 120%;
+	}
