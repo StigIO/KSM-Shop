@@ -1,4 +1,5 @@
 
+
 .produkt-side-panel{	
 	float: left;
 //	position: relative;
@@ -11,11 +12,13 @@
 	background: rgba(36,36,36,.70);
 	height: 260px;	
 	vertical-align: top;
+
 	width: 160px;
 	max width: 800px;
-	text-align: left;	
+	//text-align: left;	
 	align-items: center;
 	border-radius: 5px 5px 5px 5px;	
+	text-align: center;
 }
 
 .sidepanel-link{
@@ -25,6 +28,7 @@ margin: auto;
 color: whitesmoke;
 text-decoration: none;
 font-family: Arial;
+
 padding:5px;
 overflow: none;
 }
